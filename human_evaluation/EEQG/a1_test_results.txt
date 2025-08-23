@@ -1,0 +1,102 @@
+Excel row: 1 Test instance: 1
+
+Alice's mother died when she was five. Although her brothers and sisters were loving and caring, their love couldn't take the place of a mother's. In 1925 Alice became my mother and told me that her family couldn't even afford her a doll.
+One afternoon in December 1982, when I was getting ready for Christmas, I suddenly decided to buy two dolls, one for my five-year-old daughter, Katie, and one for my old mother.
+Things went smoothly when a friend told me that his dad, who played Santa Claus in my area, would be willing to make a visit on Christmas morning to our home with the gifts! Knowing that my parents would also come to my house, I began to get ready for the most memorable day of my mother's life.
+Christmas Day arrived and so did Santa Claus at the planned time. Katie was very excited and happy all the time to welcome the Santa. My mother was enjoying watching Katie welcoming this special guest. As Santa turned to leave he looked again into his bag and took out one more gift. As he asked who Alice was, my mother, without thinking of her name being called, said that she in fact was Alice. Santa handed her the gift with a message card that read:
+For Alice:
+I was cleaning out my sleigh   before my trip this year and came across this package that should be sent on December 25, 1925. The gift inside has aged, but I felt that you might still wish to have it. Many apologies for the lateness of the gift.
+Love,
+Santa Claus
+My mother was very excited and deeply moved to tears. She couldn't speak but only held tightly in her arms the doll she had waited fifty-seven years to receive as tears of joy flew down her face. That doll made my mother the happiest "child".
+
+Generated quiz:
+Question: Why did the narrator arrange for Santa to bring an extra gift for Alice?
+True answer: To give her the doll she never received as a child in 1925.
+False answer: To surprise her with a trip to visit her childhood home.
+False answer: Because Katie asked Santa to bring a present for her grandmother.
+False answer: To replace a doll Alice had recently lost.
+
+----------------------------------------------------------------------------------------
+
+Excel row: 2 Test instance: 2
+
+Alice's mother died when she was five. Although her brothers and sisters were loving and caring, their love couldn't take the place of a mother's. In 1925 Alice became my mother and told me that her family couldn't even afford her a doll.
+One afternoon in December 1982, when I was getting ready for Christmas, I suddenly decided to buy two dolls, one for my five-year-old daughter, Katie, and one for my old mother.
+Things went smoothly when a friend told me that his dad, who played Santa Claus in my area, would be willing to make a visit on Christmas morning to our home with the gifts! Knowing that my parents would also come to my house, I began to get ready for the most memorable day of my mother's life.
+Christmas Day arrived and so did Santa Claus at the planned time. Katie was very excited and happy all the time to welcome the Santa. My mother was enjoying watching Katie welcoming this special guest. As Santa turned to leave he looked again into his bag and took out one more gift. As he asked who Alice was, my mother, without thinking of her name being called, said that she in fact was Alice. Santa handed her the gift with a message card that read:
+For Alice:
+I was cleaning out my sleigh   before my trip this year and came across this package that should be sent on December 25, 1925. The gift inside has aged, but I felt that you might still wish to have it. Many apologies for the lateness of the gift.
+Love,
+Santa Claus
+My mother was very excited and deeply moved to tears. She couldn't speak but only held tightly in her arms the doll she had waited fifty-seven years to receive as tears of joy flew down her face. That doll made my mother the happiest "child".
+
+Generated quiz:
+Question: Why did the gift to Alice appear to be from 1925?
+True answer: It was presented as a long-delayed doll from Santa that she never received as a child.
+False answer: It was a family heirloom passed down from her grandmother.
+False answer: It was a doll Alice had lost and recently found.
+False answer: It was a new doll mislabeled with the wrong date at the store.
+
+----------------------------------------------------------------------------------------
+
+Excel row: 3 Test instance: 3
+
+Alice's mother died when she was five. Although her brothers and sisters were loving and caring, their love couldn't take the place of a mother's. In 1925 Alice became my mother and told me that her family couldn't even afford her a doll.
+One afternoon in December 1982, when I was getting ready for Christmas, I suddenly decided to buy two dolls, one for my five-year-old daughter, Katie, and one for my old mother.
+Things went smoothly when a friend told me that his dad, who played Santa Claus in my area, would be willing to make a visit on Christmas morning to our home with the gifts! Knowing that my parents would also come to my house, I began to get ready for the most memorable day of my mother's life.
+Christmas Day arrived and so did Santa Claus at the planned time. Katie was very excited and happy all the time to welcome the Santa. My mother was enjoying watching Katie welcoming this special guest. As Santa turned to leave he looked again into his bag and took out one more gift. As he asked who Alice was, my mother, without thinking of her name being called, said that she in fact was Alice. Santa handed her the gift with a message card that read:
+For Alice:
+I was cleaning out my sleigh   before my trip this year and came across this package that should be sent on December 25, 1925. The gift inside has aged, but I felt that you might still wish to have it. Many apologies for the lateness of the gift.
+Love,
+Santa Claus
+My mother was very excited and deeply moved to tears. She couldn't speak but only held tightly in her arms the doll she had waited fifty-seven years to receive as tears of joy flew down her face. That doll made my mother the happiest "child".
+
+Generated quiz:
+Question: Why did the narrator arrange for Santa to bring an extra gift for Alice?
+True answer: To give her the doll she never received as a child in 1925.
+False answer: To surprise Katie with a second present.
+False answer: Because Alice had asked Santa for a new doll that year.
+False answer: To replace a broken doll Alice had recently lost.
+
+----------------------------------------------------------------------------------------
+
+Excel row: 4 Test instance: 4
+
+One of the most famous basketball-players in the New Castle's history was paralyzed  in a wheelchair one day...and was walking the next. Citizens of New Castle simply refer to it as "The Miracle".
+Joel Haler woke up in his dorm room at Hope College last October totally paralyzed from the waist down. Four hospitals later, the only way he could walk was through Robotic Walking Treatment.
+"This past Tuesday, I was doing the Robotic walk and lasted ten minutes," Joel said. After that, he gave up. Joel wanted to accept the inevitable  and cancelled his next Robotic Walking Treatment appointment.
+Then, the night before his cancelled appointment, he woke up to a terrible pain. An hour and a half later, the serious pain left him with an unusual feeling in his legs.
+"As it continued to move up my legs, it became more and more painful and it took an hour and a half to reach my hips ," Joel recalled.
+"I stood up and walked into my parents' room. 'Mom and dad, look!'," he said proudly.
+"He said something and I was like, 'Joel! Joel! You're walking! You're walking!' We jumped out of bed, cried and hugged," Joel's mom Karen remembered.
+"I burst into tears. It's hard seeing your son not be able to walk, but he was standing there, walking," Joel's father Eric said, tearfully.
+It was Thursday, January 23, when he could finally walk. That date made perfect sense to Joel. He had dreamt of a calendar that only said "J 23". He didn't know what to make of it until "a little boy at church, four years old, came up to me and said, 'you will walk on a Thursday'," Joel recalled.
+So the 20-year-old college student, who could only walk with the aid of robot on Tuesday, was walking on his own.
+
+Generated quiz:
+Question: Why did Joel cancel his next Robotic Walking Treatment appointment?
+True answer: He wanted to accept that he might never walk again.
+False answer: He had fully recovered and no longer needed therapy.
+False answer: His doctors advised him to stop the treatment.
+False answer: The clinic was closed on the scheduled day.
+
+----------------------------------------------------------------------------------------
+
+Excel row: 5 Test instance: 5
+
+Among various programs, TV talk shows have covered every inch of space on daytime television. But no two shows are more opposite in content, while at the same time standing out above the rest, than the Jerry Springer and Oprah Winfrey shows.
+Jerry Springer could easily be considered the king of "rubbish talk". The show takes the ever-common talk show titles of love, sex, cheating, and hate, to a different level. Clearly, the Jerry Springer show is about the dark side of society, yet people are willing to eat up the troubles of other people's lives.
+Like Jerry Springer, Oprah Winfrey takes the TV talk show to its top. But Oprah goes in the opposite direction. The show is mainly about the improvement of society and different quality of life. Contents are from teaching your children lessons, managing your work week, to getting to know your neighbors.
+Compared to Oprah, the Jerry Springer show looks like poisonous waste being poured into society. Jerry ends every show with a "final word". He makes a small speech about the entire idea of the show. Hopefully, this is the part where most people will learn something very valuable.
+Clean as it is, the Oprah show is not for everyone. The show's main audience are middle-class Americans. Most of the people have the time, money and ability to deal with life's tough problems. Jerry Springer, on the other hand, has more of a connection with the young adults of society.
+
+Generated quiz:
+Question: How do the two shows mainly differ in their focus?
+True answer: Oprah emphasizes self-improvement and community, while Springer highlights society’s darker issues.
+False answer: Oprah focuses on celebrity gossip, while Springer covers politics.
+False answer: Oprah targets young adults, while Springer targets middle-class Americans.
+False answer: Both shows primarily teach workplace skills.
+
+----------------------------------------------------------------------------------------
+
