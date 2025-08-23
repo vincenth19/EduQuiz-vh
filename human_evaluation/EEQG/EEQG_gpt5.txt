@@ -1,0 +1,102 @@
+Excel row: 1 Test instance: 1
+
+Alice's mother died when she was five. Although her brothers and sisters were loving and caring, their love couldn't take the place of a mother's. In 1925 Alice became my mother and told me that her family couldn't even afford her a doll.
+One afternoon in December 1982, when I was getting ready for Christmas, I suddenly decided to buy two dolls, one for my five-year-old daughter, Katie, and one for my old mother.
+Things went smoothly when a friend told me that his dad, who played Santa Claus in my area, would be willing to make a visit on Christmas morning to our home with the gifts! Knowing that my parents would also come to my house, I began to get ready for the most memorable day of my mother's life.
+Christmas Day arrived and so did Santa Claus at the planned time. Katie was very excited and happy all the time to welcome the Santa. My mother was enjoying watching Katie welcoming this special guest. As Santa turned to leave he looked again into his bag and took out one more gift. As he asked who Alice was, my mother, without thinking of her name being called, said that she in fact was Alice. Santa handed her the gift with a message card that read:
+For Alice:
+I was cleaning out my sleigh   before my trip this year and came across this package that should be sent on December 25, 1925. The gift inside has aged, but I felt that you might still wish to have it. Many apologies for the lateness of the gift.
+Love,
+Santa Claus
+My mother was very excited and deeply moved to tears. She couldn't speak but only held tightly in her arms the doll she had waited fifty-seven years to receive as tears of joy flew down her face. That doll made my mother the happiest "child".
+
+Generated quiz:
+Question: What made the Christmas Day especially memorable for Alice?
+True answer: She received a doll presented as a long-belated gift from “Santa.”
+False answer: She was reunited with her long-lost mother.
+False answer: She surprised Katie with a trip to see Santa at the mall.
+False answer: She received an expensive piece of jewelry from her children.
+
+----------------------------------------------------------------------------------------
+
+Excel row: 2 Test instance: 2
+
+Alice's mother died when she was five. Although her brothers and sisters were loving and caring, their love couldn't take the place of a mother's. In 1925 Alice became my mother and told me that her family couldn't even afford her a doll.
+One afternoon in December 1982, when I was getting ready for Christmas, I suddenly decided to buy two dolls, one for my five-year-old daughter, Katie, and one for my old mother.
+Things went smoothly when a friend told me that his dad, who played Santa Claus in my area, would be willing to make a visit on Christmas morning to our home with the gifts! Knowing that my parents would also come to my house, I began to get ready for the most memorable day of my mother's life.
+Christmas Day arrived and so did Santa Claus at the planned time. Katie was very excited and happy all the time to welcome the Santa. My mother was enjoying watching Katie welcoming this special guest. As Santa turned to leave he looked again into his bag and took out one more gift. As he asked who Alice was, my mother, without thinking of her name being called, said that she in fact was Alice. Santa handed her the gift with a message card that read:
+For Alice:
+I was cleaning out my sleigh   before my trip this year and came across this package that should be sent on December 25, 1925. The gift inside has aged, but I felt that you might still wish to have it. Many apologies for the lateness of the gift.
+Love,
+Santa Claus
+My mother was very excited and deeply moved to tears. She couldn't speak but only held tightly in her arms the doll she had waited fifty-seven years to receive as tears of joy flew down her face. That doll made my mother the happiest "child".
+
+Generated quiz:
+Question: What made Alice cry with joy on Christmas Day?
+True answer: Receiving a long-awaited doll presented as a late gift from “Santa.”
+False answer: Hearing that her mother was still alive.
+False answer: Seeing Katie refuse her Christmas gifts.
+False answer: Finding the message card addressed to Katie.
+
+----------------------------------------------------------------------------------------
+
+Excel row: 3 Test instance: 3
+
+Alice's mother died when she was five. Although her brothers and sisters were loving and caring, their love couldn't take the place of a mother's. In 1925 Alice became my mother and told me that her family couldn't even afford her a doll.
+One afternoon in December 1982, when I was getting ready for Christmas, I suddenly decided to buy two dolls, one for my five-year-old daughter, Katie, and one for my old mother.
+Things went smoothly when a friend told me that his dad, who played Santa Claus in my area, would be willing to make a visit on Christmas morning to our home with the gifts! Knowing that my parents would also come to my house, I began to get ready for the most memorable day of my mother's life.
+Christmas Day arrived and so did Santa Claus at the planned time. Katie was very excited and happy all the time to welcome the Santa. My mother was enjoying watching Katie welcoming this special guest. As Santa turned to leave he looked again into his bag and took out one more gift. As he asked who Alice was, my mother, without thinking of her name being called, said that she in fact was Alice. Santa handed her the gift with a message card that read:
+For Alice:
+I was cleaning out my sleigh   before my trip this year and came across this package that should be sent on December 25, 1925. The gift inside has aged, but I felt that you might still wish to have it. Many apologies for the lateness of the gift.
+Love,
+Santa Claus
+My mother was very excited and deeply moved to tears. She couldn't speak but only held tightly in her arms the doll she had waited fifty-seven years to receive as tears of joy flew down her face. That doll made my mother the happiest "child".
+
+Generated quiz:
+Question: What made the Christmas memorable for Alice in 1982?
+True answer: Receiving a long-awaited doll presented by “Santa” as if from 1925
+False answer: Being reunited with her long-lost mother
+False answer: Watching Katie open all her presents first
+False answer: Learning her family could finally afford many toys
+
+----------------------------------------------------------------------------------------
+
+Excel row: 4 Test instance: 4
+
+One of the most famous basketball-players in the New Castle's history was paralyzed  in a wheelchair one day...and was walking the next. Citizens of New Castle simply refer to it as "The Miracle".
+Joel Haler woke up in his dorm room at Hope College last October totally paralyzed from the waist down. Four hospitals later, the only way he could walk was through Robotic Walking Treatment.
+"This past Tuesday, I was doing the Robotic walk and lasted ten minutes," Joel said. After that, he gave up. Joel wanted to accept the inevitable  and cancelled his next Robotic Walking Treatment appointment.
+Then, the night before his cancelled appointment, he woke up to a terrible pain. An hour and a half later, the serious pain left him with an unusual feeling in his legs.
+"As it continued to move up my legs, it became more and more painful and it took an hour and a half to reach my hips ," Joel recalled.
+"I stood up and walked into my parents' room. 'Mom and dad, look!'," he said proudly.
+"He said something and I was like, 'Joel! Joel! You're walking! You're walking!' We jumped out of bed, cried and hugged," Joel's mom Karen remembered.
+"I burst into tears. It's hard seeing your son not be able to walk, but he was standing there, walking," Joel's father Eric said, tearfully.
+It was Thursday, January 23, when he could finally walk. That date made perfect sense to Joel. He had dreamt of a calendar that only said "J 23". He didn't know what to make of it until "a little boy at church, four years old, came up to me and said, 'you will walk on a Thursday'," Joel recalled.
+So the 20-year-old college student, who could only walk with the aid of robot on Tuesday, was walking on his own.
+
+Generated quiz:
+Question: Why did the date Joel walked again feel meaningful to him?
+True answer: He had dreamt of “J 23” and a boy had told him he’d walk on a Thursday.
+False answer: It was the anniversary of his first basketball game.
+False answer: His doctors had predicted that exact recovery date.
+False answer: It was the day he started Robotic Walking Treatment.
+
+----------------------------------------------------------------------------------------
+
+Excel row: 5 Test instance: 5
+
+Among various programs, TV talk shows have covered every inch of space on daytime television. But no two shows are more opposite in content, while at the same time standing out above the rest, than the Jerry Springer and Oprah Winfrey shows.
+Jerry Springer could easily be considered the king of "rubbish talk". The show takes the ever-common talk show titles of love, sex, cheating, and hate, to a different level. Clearly, the Jerry Springer show is about the dark side of society, yet people are willing to eat up the troubles of other people's lives.
+Like Jerry Springer, Oprah Winfrey takes the TV talk show to its top. But Oprah goes in the opposite direction. The show is mainly about the improvement of society and different quality of life. Contents are from teaching your children lessons, managing your work week, to getting to know your neighbors.
+Compared to Oprah, the Jerry Springer show looks like poisonous waste being poured into society. Jerry ends every show with a "final word". He makes a small speech about the entire idea of the show. Hopefully, this is the part where most people will learn something very valuable.
+Clean as it is, the Oprah show is not for everyone. The show's main audience are middle-class Americans. Most of the people have the time, money and ability to deal with life's tough problems. Jerry Springer, on the other hand, has more of a connection with the young adults of society.
+
+Generated quiz:
+Question: How do the Oprah Winfrey and Jerry Springer shows mainly differ according to the passage?
+True answer: Oprah focuses on improving society and quality of life, while Jerry highlights society’s dark side.
+False answer: Oprah targets young adults, while Jerry targets middle-class Americans.
+False answer: Both shows primarily teach work management and neighborhood relations.
+False answer: Jerry avoids controversial topics, while Oprah centers on scandal and conflict.
+
+----------------------------------------------------------------------------------------
+
