@@ -11,11 +11,13 @@ Santa Claus
 My mother was very excited and deeply moved to tears. She couldn't speak but only held tightly in her arms the doll she had waited fifty-seven years to receive as tears of joy flew down her face. That doll made my mother the happiest "child".
 
 Generated quiz:
-Question: Why did the narrator arrange for Santa to bring an extra gift addressed to Alice on Christmas Day?
-True answer: To fulfill the childhood wish her mother Alice never had met—receiving a doll she couldn’t afford in 1925.
-False answer: To surprise Katie with a second present after she lost interest in her first gift.
-False answer: To apologize to his mother for forgetting her birthday earlier that year.
-False answer: Because Santa accidentally brought an extra package and needed someone to claim it.
+```
+Question: Why did Alice cry when she received the doll from Santa?
+True answer: Because she finally received the doll she had waited 57 years for but couldn't have as a child.
+False answer: Because the note said the doll was from her late mother.
+False answer: Because Katie insisted that Alice take Katie's own doll.
+False answer: Because her brothers and sisters had arranged the surprise.
+```
 
 ----------------------------------------------------------------------------------------
 
@@ -40,11 +42,13 @@ Where: No. 4 Jiuxianqiao Road, Chaoyang District, Beijing
 Opening hours: 10 am-6 pm
 
 Generated quiz:
-Question: If you plan to visit an art zone at 7 pm on a Monday, which one can you go to?
-True answer: Redtory, Guangzhou
-False answer: Tank Loft, Chongqing
-False answer: M50, Shanghai
-False answer: 798 Art Zone, Beijing
+```
+Question: If you plan to visit an art zone at 6:30 pm on a Tuesday, which one can you go to?
+True answer: Redtory, Guangzhou.
+False answer: Tank Loft, Chongqing.
+False answer: M50, Shanghai.
+False answer: 798 Art Zone, Beijing.
+```
 
 ----------------------------------------------------------------------------------------
 
@@ -57,11 +61,11 @@ By changing to the size of a tabloid, The Times is following in the footsteps of
 The two papers claim that people find the smaller size easier to handle when they travel to work on the bus or the train in the morning. Instead of calling the new style of their paper tabloid, the paper says its new size is "compact" .
 
 Generated quiz:
-Question: Why did The Times change to a smaller "compact" size?
-True answer: Because readers find the smaller size easier to handle during their commute.
-False answer: Because it wanted to adopt tabloid-style content about celebrities.
-False answer: Because broadsheet papers were banned on public transport.
-False answer: Because The Times merged with the Sun and adopted its format.
+Question: What does The Times' move to a smaller tabloid-size ("compact") format indicate about its content, according to the passage?
+True answer: Its content remains serious and unchanged; only the physical size has changed.
+False answer: It now focuses on celebrity gossip with shorter, simpler stories.
+False answer: It has adopted a new political stance.
+False answer: It prints mainly large photos with minimal text.
 
 ----------------------------------------------------------------------------------------
 
@@ -81,11 +85,13 @@ The issue is likely to be solved within the next two days; kindly bear with us u
                                                               David Johns
 
 Generated quiz:
-Question: What action does the first letter’s sender promise to take in response to Ms. Morris’s complaint?
-True answer: Replace the faulty air conditioner at no extra cost and provide free servicing of all her company products for up to three years.
-False answer: Offer a full cash refund for all past purchases from the company.
-False answer: Assign the same customer service manager to personally handle her future issues.
-False answer: Provide a temporary internet hotspot until the technical fault is resolved.
+```
+Question: After acknowledging Ms Morris's complaint, what key request does the company make in its letter to her?
+True answer: That she not take any legal action against the company.
+False answer: That she withdraw her complaint entirely.
+False answer: That she pay for the replacement of the faulty air conditioner.
+False answer: That she help train the new employee to improve his judgment.
+```
 
 ----------------------------------------------------------------------------------------
 
@@ -98,11 +104,13 @@ There are many examples of the Streisand effect. Nine-year-old Martha Payne crea
 We can find similar examples throughout history. Man has experienced the Streisand effect ever since the birth of mass communication. Why does it exist? Every time you are told not to see what's in the secret shiny box wrapped in gift paper, you're going to do everything in your power to do exactly that! Just realizing that knowing something about someone is harmful to their status, we will want to know that piece of information. This is exactly the human nature. This is what lawyers and authorities should be familiar with. Unfortunately, a few of them fail to understand it.
 
 Generated quiz:
-Question: What central idea does the passage use the Streisand effect to illustrate?
-True answer: Attempts to suppress information often backfire by drawing greater public attention to it.
-False answer: Legal action is the most effective way to remove unwanted content from the Internet.
-False answer: Only celebrities are affected when private information is shared online.
-False answer: The Streisand effect occurs because online content is always deleted quickly.
+```
+Question: What lesson does the author suggest lawyers and authorities should learn from the "Streisand effect"?
+True answer: That attempts to suppress or ban information often attract more attention to it.
+False answer: That legal threats and bans are effective at keeping information from spreading online.
+False answer: That people generally lose interest when told not to look at something.
+False answer: That the Internet makes it easy to permanently remove unwanted content.
+```
 
 ----------------------------------------------------------------------------------------
 
@@ -118,11 +126,13 @@ Edell learned ballet in her childhood until she broke her back in practice. She 
     It helped her greatly. She greeted those strange faces she had never seen before and talked with them like an old friend. She did a great job. The MTV channel was so satisfied that they offered her a job as a TV hostess."Try to get yourself well-prepared in life," she said. "In the meantime, try to live your life with brains."
 
 Generated quiz:
-Question: What core principle does Edell credit for her unexpected success in singing and TV hosting?
-True answer: Being prepared to seize opportunities when they arise.
-False answer: Carefully following a lifelong plan to become a performer.
-False answer: Avoiding risks and sticking to what she studied in college.
-False answer: Relying on long-term professional training in hosting from childhood.
+```
+Question: What principle does Edell credit most for her unexpected career successes?
+True answer: Preparing herself to seize opportunities as they arise.
+False answer: Carefully sticking to her original design career plan.
+False answer: Avoiding unfamiliar challenges to minimize risk.
+False answer: Relying mainly on luck and personal connections.
+```
 
 ----------------------------------------------------------------------------------------
 
@@ -138,11 +148,11 @@ A police report later identified the man as a 63-ycar-old sex offender. He is st
 Neil Harkins, chief of the Manheim Police Department, says "The boys' heroics are 'something we don't normally hear about.' It is a very brave thing for young boys to do that." But when asked, Temar, now a tenth-grade student at Lucy Laney High School, says "I didn't do it for attention. I just wanted to help."
 
 Generated quiz:
-Question: What primarily led Temar Boggs to pursue the suspicious car and ultimately rescue Jocelyn?
-True answer: He felt a strong conviction he was going to find her and kept a sharp eye out while searching.
-False answer: He recognized the driver as a neighbor and wanted to confront him.
-False answer: He received a direct tip from the police about the car’s license plate.
-False answer: He was following the car because it had hit his bicycle earlier.
+Question: What led directly to Jocelyn's rescue?
+True answer: Two teenagers on bikes followed a suspicious car; after the driver opened the passenger door and the girl slipped out, Temar carried her to the police.
+False answer: Police found her hiding in a nearby building after blocking off the streets.
+False answer: Her mother used a phone tracker to locate her and alerted officers.
+False answer: A neighbor recognized the kidnapper from a wanted poster and held him until police arrived.
 
 ----------------------------------------------------------------------------------------
 
@@ -162,11 +172,11 @@ The Great Barrier Reef
 Located in Queensland, this attraction is one of those attractions that are actually known by everyone. Extending for about 2,300 kms, it is home to many rare, endangered and unique animals and plant species.
 
 Generated quiz:
-Question: Which statement best explains why the Great Ocean Road typically takes a full day to drive despite being 243 km long?
-True answer: Because its narrow, windy lanes with only one lane in each direction slow travel.
-False answer: Because frequent toll booths and checkpoints require long stops.
-False answer: Because it passes through multiple large cities with heavy urban traffic.
-False answer: Because road closures due to rainforest conditions are common along the entire route.
+Question: Which destination is described as Australia's largest rainforest, located roughly 110 km north of Cairns, where about 20% of the country's native bird species can be found?
+True answer: Daintree Rainforest
+False answer: Great Barrier Reef
+False answer: Byron Bay
+False answer: The Great Ocean Road
 
 ----------------------------------------------------------------------------------------
 
@@ -194,11 +204,13 @@ $100.01 to $200.00             $11.50                 $12.50
 Add $7.00 to Ground Rates for 3 Days.
 
 Generated quiz:
-Question: If someone wants to support the band and spend exactly $1 on cookies at the bake sale, how many cookies will they get, and where and when can they buy them?
-True answer: They will get 5 cookies, and they can buy them in the hall by the office on Friday, September 20th, from 2:00 to 4:00 p.m.
-False answer: They will get 4 cookies, and they can buy them in the cafeteria on Thursday after school.
-False answer: They will get 5 cookies, and they can buy them in the gym during lunch on Friday.
-False answer: They will get 6 cookies, and they can buy them in the hall by the office on Saturday morning.
+```
+Question: According to the shipping and handling ad, what would the shipping charge be for a $45 order if you want 3-day delivery within the continental U.S.?
+True answer: $14.25
+False answer: $8.25
+False answer: $7.25
+False answer: $15.25
+```
 
 ----------------------------------------------------------------------------------------
 
@@ -212,11 +224,13 @@ Excel row: 10 Test instance: 82
               "The skateboard park would use only the back corner, which isn't near any houses. Since young people already hang out here, why not give them something fun and physically active to do in their free time?"              The lines over Mr. Hanson's forehead unwrinkled  , and Everett's hopes rose again. "If everyone works together," Everett thought, "maybe this idea will become reality."
 
 Generated quiz:
-Question: What concern did Mr. Hanson raise about creating the skateboard park, and how did Everett address it?
-True answer: Mr. Hanson worried about noise and parking, and Everett explained the park would be in a back corner away from houses.
-False answer: Mr. Hanson feared the cost would be too high, and Everett promised to fund it entirely through lessons.
-False answer: Mr. Hanson doubted there was enough interest, and Everett showed a petition with hundreds of local signatures.
-False answer: Mr. Hanson objected to losing the arts centre space, and Everett proposed moving the park to a different town.
+```
+Question: By the end of the passage, how does Everett feel about his proposal for a skateboard park?
+True answer: Optimistic that, if everyone works together, the idea could become reality.
+False answer: Discouraged because Mr. Hanson rejects the plan outright.
+False answer: Angry that the area will be used only for a community arts centre instead.
+False answer: Indifferent, deciding the location is no longer suitable.
+```
 
 ----------------------------------------------------------------------------------------
 
@@ -229,11 +243,13 @@ One of the best-known science fiction books is Nineteen Eighty-Four by George Or
 What helps bring science fiction into being is usually a new discovery or innovation. The author creates an analysis of the potential influence and consequences and then wraps it in a pleasant story. For example, the beginning of space exploration was followed a few years later by the Star Trek television program and movie series. Advances in genetics  cause fantasies of the end of disease, horrors of eugenics , and thrillers where creatures disappearing long ago are brought back to life. The science fiction author's self-determined role is that of field glasses for humanity--searching the world of future possibilities upon the road which we are traveling.
 
 Generated quiz:
-Question: What primary role does the passage claim science fiction authors assume?
-True answer: They act as “field glasses” for humanity, exploring future possibilities and consequences of new discoveries.
-False answer: They primarily aim to predict exact future events and dates.
-False answer: They focus on retelling historical events with scientific explanations.
-False answer: They write to promote government policies supporting technology development.
+```
+Question: According to the passage, what role do science fiction authors see themselves as fulfilling?
+True answer: Acting as “field glasses for humanity,” analyzing the potential influence and consequences of new discoveries and presenting future possibilities through story.
+False answer: Precisely predicting future events and technologies with complete accuracy.
+False answer: Providing entertainment that avoids engagement with scientific or technological ideas.
+False answer: Arguing against all scientific and technological progress.
+```
 
 ----------------------------------------------------------------------------------------
 
@@ -246,11 +262,11 @@ The reasons for the shift are complex and not fully understood. But researchers 
 While binge drinking isn't always deadly, it does have other, wide - ranging effects. Academics is one area where it takes a heavy  _ (something paid, lost or suffered). Perhaps because alcohol increases aggression and affects judgement, it is also related to 25 percent of violent crimes and roughly 60 percent of vandalism on campus. Facing the many potential dangers, college campuses are searching for ways to reduce binge drinking.
 
 Generated quiz:
-Question: According to the passage, what significant change did the Harvard study observe about students’ reasons for drinking between 1993 and 1997?
-True answer: A higher proportion of students drank specifically to get drunk.
-False answer: More students reported drinking to improve academic performance.
-False answer: Students increasingly drank to conform to stricter campus rules.
-False answer: Fewer students admitted to binge drinking during that period.
+Question: What do researchers suspect may have contributed to the shift toward the broad acceptability of intoxication among college students?
+True answer: An instant-satisfaction lifestyle that young people tend to take to extremes.
+False answer: Lower alcohol prices in the 1990s that made heavy drinking more affordable.
+False answer: Relaxed enforcement of campus drinking rules that normalized intoxication.
+False answer: Reduced academic workloads that left students with more time for parties.
 
 ----------------------------------------------------------------------------------------
 
@@ -264,11 +280,11 @@ Most Americans receive at least two or three credit card applications in the mai
        If you do find yourself in trouble, do not ignore the bills.Contact your creditors to explain your problem and express your desire to pay down your card balance.If that fails, a nonprofit organization like Consumer Credit Counseling Service can assist you in getting back on your financial feet.
 
 Generated quiz:
-Question: According to the passage, which is a recommended strategy for someone who cannot pay their credit card bills on time?
-True answer: Contact creditors to explain the problem and seek help paying down the balance.
-False answer: Ignore the bills until you can make the minimum payment.
-False answer: Apply for additional credit cards to access more cash advances.
-False answer: Switch to a card with a higher interest rate to reduce monthly fees.
+Question: When you find yourself in credit card trouble, what does the passage recommend you do first?
+True answer: Contact your creditors to explain your situation and your intent to pay down the balance.
+False answer: Immediately seek help from a nonprofit like Consumer Credit Counseling Service.
+False answer: Ignore the bills until you can afford to pay.
+False answer: Take a cash advance to make this month’s payment.
 
 ----------------------------------------------------------------------------------------
 
@@ -283,11 +299,13 @@ There is an English saying that goes, "he who laughs last, laughs the hardest." 
    Efron has risen all the way to the top of the movie business. And he can now laugh all the way to the bank.
 
 Generated quiz:
-Question: What does Zac Efron suggest is a constructive way to respond when people make fun of you?
-True answer: Treat it as an opportunity to rise above and improve.
-False answer: Ignore it completely and pretend it never happened.
-False answer: Fight back so others will stop teasing you.
-False answer: Change yourself to match what the bullies want.
+```
+Question: How does the opening saying "he who laughs last, laughs the hardest" relate to Zac Efron's story in the passage?
+True answer: He was mocked and made mistakes when young but later achieved major success, giving him the last laugh.
+False answer: It refers to his becoming a stand-up comedian known for laughing on stage.
+False answer: It describes his clinching a basketball championship with a last-second play.
+False answer: It explains that he left school because he disliked studying.
+```
 
 ----------------------------------------------------------------------------------------
 
@@ -305,11 +323,13 @@ Teachers and textbooks  _ -- your future could be under threat from a quickly de
      So, what is the future for today's teachers, classrooms, and textbooks?
 
 Generated quiz:
-Question: According to the passage, what key advancement does facial expression recognition bring to Intelligent Tutoring Systems (ITS)?
-True answer: It lets robot teachers adjust their feedback in real time based on students’ expressions.
-False answer: It enables robots to replace textbooks entirely by generating all course content.
-False answer: It allows robots to grade essays without any input from students.
-False answer: It makes ITS follow a fixed sequence of asking and waiting for answers without adaptation.
+```
+Question: According to Dr. Andrew Olney, what will be key to future learning with Intelligent Tutoring Systems (ITS)?
+True answer: Enabling interactive, one-on-one instruction.
+False answer: Delivering standardized lectures to large groups.
+False answer: Completely replacing human teachers with robots in all classrooms.
+False answer: Relying exclusively on textbook-based study.
+```
 
 ----------------------------------------------------------------------------------------
 
@@ -324,11 +344,13 @@ The application arrives at a time when tablet   computing is driving the creatio
 Technology research firm Gartner predicts that app-store downloads worldwide will double to $17.7 billion as the year closes, and that app-income will hit $15.1 billion, tripling the impact of last year's sales. App-downloads are expected to continue to jump to 185 billion by 2014, at which point worldwide tablet sales are projected to surpass   208 million units.
 
 Generated quiz:
-Question: What is a key feature of Hello-Hello World that supports language learning through social interaction?
-True answer: It connects users with native speakers to review oral and writing exercises and provide feedback.
-False answer: It requires users to live abroad for total immersion before accessing lessons.
-False answer: It offers only a single language to maintain focus and reduce confusion.
-False answer: It is limited to offline use on the iPad with no cloud synchronization or cross-device access.
+```
+Question: According to the passage, how does Hello-Hello World address the challenge that not everyone can experience total immersion?
+True answer: By connecting learners with native speakers anytime, from anywhere through social networking, helping them learn language and culture.
+False answer: By arranging for users to live in foreign countries through study-abroad programs.
+False answer: By replacing human interaction with AI chatbots that handle all practice and feedback.
+False answer: By focusing only on solitary grammar drills without any community features.
+```
 
 ----------------------------------------------------------------------------------------
 
@@ -347,11 +369,13 @@ He said that this system was relatively inexpensive to fix and operate.
 "That's not a terribly expensive system considering the potential savings of lives."
 
 Generated quiz:
-Question: According to the passage, what role do Dart buoys play immediately after an earthquake is detected?
-True answer: They measure sea-level changes to determine if a tsunami is forming and send data via satellite for potential alarms.
-False answer: They broadcast evacuation orders directly to coastal residents using loudspeakers.
-False answer: They predict the exact time and height of the incoming tsunami for each coastline.
-False answer: They replace the need for public education by providing instant, comprehensive warnings.
+```
+Question: According to Dr Bernard, what is the main purpose of tsunami detection technology after the first few minutes following an earthquake?
+True answer: To provide measurements that prevent unnecessary evacuations and indicate when it is safe for people to return.
+False answer: To predict earthquakes before they occur.
+False answer: To replace public education about warning signs.
+False answer: To physically stop the tsunami from reaching shore.
+```
 
 ----------------------------------------------------------------------------------------
 
@@ -372,11 +396,11 @@ It is also an Australian tradition to stand up for the  _ . In the 2000 Olympic 
 "Australians don't need to be victorious in order to feel like a worthy person. When they cheer for the underdog, seeing other human beings having the courage to take on hardship, they get the emotional satisfaction they need," wrote a blogger on convictcreations.com, a website dedicated to Australian culture.
 
 Generated quiz:
-Question: According to the passage, which factor best explains why Australians enthusiastically support underdogs in sports events?
-True answer: They value courage and derive emotional satisfaction from seeing others take on hardship.
-False answer: They believe underdogs are more likely to win due to superior training.
-False answer: They are required by national policy to cheer for non-Australian teams.
-False answer: They think cheering for favorites is unpatriotic and disrespectful.
+Question: According to the passage, why do Australians often cheer for the underdog?
+True answer: Because they gain emotional satisfaction from seeing others courageously take on hardship and don’t need victory to feel worthy.
+False answer: Because they expect underdogs to win gold medals if the crowd cheers loudly enough.
+False answer: Because government policy requires fans to support weaker competitors to promote multiculturalism.
+False answer: Because Australia rarely wins international events, so fans back other teams instead.
 
 ----------------------------------------------------------------------------------------
 
@@ -389,11 +413,13 @@ Lee says he got the idea for the shoe while working as a volunteer in an orphana
 However, Lee says it was not easy to turn his idea into a reality. "I kept writing down I should do this because of this or because of that. All these reasons why it really was important for me to try to make the shoes that could grow and try to help." Finally, in 2009 Lee founded a non-profit organization called Because International. In the office of Because International, Lee keeps a pair of his own shoes to help him remember his promise. "I told myself I would not get new shoes until the idea was done. So, those are the shoes that I wore for a little over five years."
 
 Generated quiz:
-Question: What primarily inspired Kenton Lee to create The Shoe That Grows?
-True answer: Seeing a girl in Kenya wearing shoes so small she had to cut them open for her toes.
-False answer: Learning that tire rubber is the most durable material for shoe soles.
-False answer: Discovering that most families prefer Velcro over laces for children’s shoes.
-False answer: Receiving a grant in 2009 that required him to design adjustable footwear.
+```
+Question: What problem is The Shoe That Grows primarily designed to address?
+True answer: Children outgrowing shoes and having to go barefoot, which exposes them to disease.
+False answer: The lack of fashionable footwear options for children in developing countries.
+False answer: Reducing shoe waste by recycling old tires into new soles.
+False answer: Improving athletic performance for young runners.
+```
 
 ----------------------------------------------------------------------------------------
 
@@ -408,11 +434,11 @@ However, Soren Andreasen, a social scientist at Dalberg Global Development Partn
 In a press release describing the report, Mr. Annan stressed the need for the negotiations to focus on increasing the flow of money from rich to poor regions to help reduce their vulnerability  to climate hazards while still curbing   the emissions of the heat-trapping gases. More than 90% of the human and economic losses from climate change are occurring in poor countries, according to the report.
 
 Generated quiz:
-Question: What is one major criticism of the Global Humanitarian Forum’s report mentioned in the passage?
-True answer: That its methods couldn’t clearly separate climate change impacts from broader trends like population and economic growth in vulnerable regions.
-False answer: That it ignored the effects of climate change on poor countries entirely.
-False answer: That it underestimated the total number of deaths caused by climate change.
-False answer: That it focused only on emissions and not on financial support for vulnerable regions.
+Question: Why did Roger Pielke Jr. call the Global Humanitarian Forum's report "a methodological embarrassment"?
+True answer: Because, in his view, it cannot separate deaths and economic losses due to human-driven climate change from those caused by population growth and economic development in vulnerable regions.
+False answer: Because he believed the report underestimated the human and economic toll and should have reported higher numbers.
+False answer: Because he argued that climate change is not an important problem and does not require attention.
+False answer: Because he felt the report’s rough estimates were appropriate and would speed agreement at the Copenhagen talks.
 
 ----------------------------------------------------------------------------------------
 
@@ -430,11 +456,13 @@ In his first big game, Ed helped his team win by seven points. He made four of t
 Many people thought he was the best football player in the world. He was "The King of Football"
 
 Generated quiz:
-Question: What was the key turning point that led Ed toward becoming a professional football player?
-True answer: Meeting Mr. Dee, who trained him for four years and took him to join a city team.
-False answer: Moving with his family to a larger house where he could practice more.
-False answer: Being discovered after scoring seven points by himself in his first big game.
-False answer: Receiving a new leather ball from his father when he turned eleven.
+```
+Question: Why did Mr. Dee approach Ed after watching him play?
+True answer: Because he saw how fast Ed ran and how well he kicked the ball during the game.
+False answer: Because Ed had just won a national youth tournament at his school.
+False answer: Because Mr. Dee knew Ed through his father as an old teammate.
+False answer: Because Ed wrote to Mr. Dee asking for professional training.
+```
 
 ----------------------------------------------------------------------------------------
 
@@ -448,11 +476,13 @@ We were not completely uninterested in culture.But this was a first holiday with
 The excitement of travel comes from the sudden reality of somewhere that was previously just a name.It is as if the city in which you arrive never actually existed until the train pulls in at the station and you are able to see it with your own tired eyes for the first time.
 
 Generated quiz:
-Question: What primarily motivated the author and friends to extend their travel beyond the original plan during their Inter-Rail trip?
-True answer: The allure of non-stop travel and the temptation of “just one more country” over the border at no extra cost.
-False answer: Their desire to visit every major museum and cultural site in Europe.
-False answer: A strict itinerary set by their parents that required them to cover multiple countries.
-False answer: The need to replace lost tickets that forced them to keep moving.
+```
+Question: How did the author and friends' understanding of the Inter-Rail ticket change during their first trip?
+True answer: They realized it allowed spontaneous, non-stop travel across many countries because extra miles cost nothing.
+False answer: They concluded it was only good for getting to and from their campsite.
+False answer: They learned it required them to follow a fixed guided itinerary of major sights.
+False answer: They discovered it mainly provided hotel and museum discounts rather than train travel.
+```
 
 ----------------------------------------------------------------------------------------
 
@@ -464,11 +494,13 @@ However, not all students can go to top universities even if they work very hard
 What students need is relaxation. This doesn't mean that they should give up their ambitions and stop studying hard. It means "work while you work, play while you play". If you can do this, you will improve your health greatly. You'll feel yourself suddenly fresh, just like recovering from a terrible illness. You'll find that your studies are not a burden  anymore.
 
 Generated quiz:
-Question: What is the main advice the passage gives to students dealing with academic pressure?
-True answer: Balance hard work with proper relaxation—“work while you work, play while you play.”
-False answer: Reduce ambitions and study less to avoid stress.
-False answer: Focus only on exam scores to secure a top university place.
-False answer: Ignore hobbies completely to prevent distraction.
+```
+Question: According to the passage, what does the author recommend students do to protect their health without abandoning their ambitions?
+True answer: Follow "work while you work, play while you play," balancing study with proper relaxation.
+False answer: Give up their ambitions and stop studying hard.
+False answer: Spend all day studying to get into a top university.
+False answer: Ignore hobbies and individual differences to focus only on exam scores.
+```
 
 ----------------------------------------------------------------------------------------
 
@@ -481,11 +513,13 @@ In other age groups, the disparity is only slight, with women outpacing men by 3
 Men tend (......) to use the Web for information and entertainment, getting sports scores and stock quotes and downloading music, while women tend to be heavier users of mapping and direction services, and communication services such as e-mail.
 
 Generated quiz:
-Question: According to the Pew report, in which groups do women surpass men in Internet usage by the largest margins?
-True answer: Young adults aged 18–29 and African Americans
-False answer: Adults aged 30–49 and 50–64
-False answer: Seniors aged 65 and older and Hispanic Americans
-False answer: Men surpass women in all age groups and racial groups
+```
+Question: According to the passage, in which demographic group do men have a higher rate of Internet use than women?
+True answer: Adults aged 65 and older
+False answer: Adults aged 18 to 29
+False answer: African Americans
+False answer: Adults under age 65
+```
 
 ----------------------------------------------------------------------------------------
 
@@ -499,11 +533,13 @@ Many years later, when I was attending seminars across the country, my manners w
 While I regret that I haven't been a perfect example, I'm still working on it.I suppose, in this regard, my mother lives on through me.I didn't have her beautiful singing voice or her green eyes, but she did make sure I received one of her finest characteristics.
 
 Generated quiz:
-Question: What does the author conclude about the value of the manners taught by her mother?
-True answer: They proved valuable throughout her life, earning respect and helping her in various settings.
-False answer: They were unnecessary because even animals naturally have better manners than people.
-False answer: They only mattered during childhood meals and had no impact later on.
-False answer: They replaced the need for other talents like singing or appearance.
+```
+Question: How does the author challenge the idea that "without manners, we're no more than animals"?
+True answer: By describing wild cats that politely take turns and leave some food for the next cat, even when food is limited.
+False answer: By claiming manners are unnecessary at home but required in public.
+False answer: By saying the friend's son actually waited for his mother before eating.
+False answer: By asserting that animals always fight over food and never share.
+```
 
 ----------------------------------------------------------------------------------------
 
@@ -517,11 +553,13 @@ Before booking your trip, be sure to check for volcano alerts. There are about 1
 Recently, another volcano named Bardarbunga has become active, erupting ash into the air. Such events, if large enough, could prevent your trip from going ahead. So check the latest volcano news prior to making your reservations.
 
 Generated quiz:
-Question: Why does the passage recommend timing a trip to Iceland in the winter?
-True answer: To take advantage of off-season deals and unique winter experiences like northern lights and glacier activities.
-False answer: Because winter offers the longest daylight hours for sightseeing.
-False answer: Because most volcanoes are inactive during winter, making travel risk-free.
-False answer: Because locals only open hotels and tours during the winter months.
+```
+Question: According to the passage, what should travelers do before booking a trip to Iceland to reduce the risk of their plans being disrupted?
+True answer: Check the latest volcano news and alerts.
+False answer: Ensure there will be more than seven hours of daylight each day.
+False answer: Pre-book a spot in a specially-equipped "super jeep."
+False answer: Verify that warm ocean currents will make the beaches swimmable.
+```
 
 ----------------------------------------------------------------------------------------
 
@@ -542,11 +580,13 @@ Tang: My friends and I may not have time to chat at school. But we can do it on 
 Yang: If you chat with friends on the telephone, your parents sometimes listen to your conversation. There's no such problem with QQ. You can relax and talk freely.
 
 Generated quiz:
-Question: According to the interviews, what is one reason Yang Yuhang prefers chatting on QQ over using the telephone?
-True answer: Because on QQ he can relax and talk freely without parents listening.
-False answer: Because QQ helps him exchange test answers with classmates.
-False answer: Because QQ lets him post articles about funny things in his class.
-False answer: Because QQ allows him to chat only during school hours.
+```
+Question: What central lesson does the passage emphasize at the end?
+True answer: That unconditional love from our children, family, friends, and God is more precious than any other possession.
+False answer: That children should never use expensive wrapping paper without permission.
+False answer: That a gift has value only if it contains a tangible item.
+False answer: That keeping physical mementos is the best way to overcome grief and discouragement.
+```
 
 ----------------------------------------------------------------------------------------
 
@@ -560,11 +600,11 @@ Wang Lu, 24, one of many students studying abroad who'll come home for work, maj
          Huang Shanshan, 25, got a job in a communication company in Shenzhen.   "I once worked part-time in UK. My colleagues ate snacks when they felt hungry, even during working time or in meetings." Huang brought some cakes to the office and ate them. When her manager saw that, he told her not to eat at workplace. "It took me some time to adjust to company rules in China," said Huang.
 
 Generated quiz:
-Question: What is one major reason employers in China hesitate to hire returning students like Wang Lu?
-True answer: They often lack practical work experience despite strong English and creativity.
-False answer: Their foreign degrees are not recognized by companies in China.
-False answer: They usually demand higher salaries than local candidates.
-False answer: They refuse to follow any company rules in China.
+Question: According to the passage, what is a major obstacle that returning Chinese students face when seeking jobs in China?
+True answer: Their lack of work experience.
+False answer: Their poor English skills.
+False answer: Their degrees are not from prestigious universities.
+False answer: Their refusal to follow company rules in China.
 
 ----------------------------------------------------------------------------------------
 
@@ -580,11 +620,13 @@ Michelle Wie,a Korean American born in 1989 whose mother was an amateur golf cha
 Thanks to Woods and Wie,golf in America will never be the same again.
 
 Generated quiz:
-Question: According to the passage, how did Tiger Woods and Michelle Wie impact golf in the USA?
-True answer: They broke age, class, and race barriers, broadening the sport’s appeal to minorities and young people.
-False answer: They introduced new golf rules that made the game easier for beginners.
-False answer: They focused on keeping traditional membership policies at elite clubs.
-False answer: They limited women’s participation by opposing mixed tournaments.
+```
+Question: According to the passage, how did Tiger Woods and Michelle Wie most significantly change golf in the USA?
+True answer: They helped break down class, age, and race barriers and sparked greater interest among minorities and young people.
+False answer: They reinforced traditional exclusivity by keeping the sport limited to older, middle-class white men.
+False answer: They revolutionized the game mainly by inventing new equipment and training technologies.
+False answer: They prompted the Masters Tournament to relocate from Augusta to a different venue.
+```
 
 ----------------------------------------------------------------------------------------
 
@@ -594,11 +636,13 @@ Excel row: 30 Test instance: 262
 That was how Mary Cassatt, born in 1844, began her struggle as an artist. She did not tremble before her father's anger. Instead, she opposed him with courage and at last made him change his mind. Mary Cassatt gave up her social position and all thought of a husband and a family, which in those times was unthinkable for a young lady. In the end, after long years of hard work and perseverance , she became America's most important woman artist and the internationally recognized leading woman painter of the time.
 
 Generated quiz:
-Question: What does the passage emphasize about Mary Cassatt’s path to becoming an artist?
-True answer: She defied her family's social expectations and persevered despite her father’s opposition to achieve international recognition.
-False answer: She was encouraged by her father from the beginning and quickly became famous without obstacles.
-False answer: She balanced a traditional family life with her art, gaining approval by painting only as a pastime.
-False answer: She succeeded mainly because Philadelphia society widely supported serious art by young women.
+```
+Question: How did Mary Cassatt respond to her father's strong opposition to her becoming an artist?
+True answer: She opposed him with courage and eventually made him change his mind so she could pursue serious art.
+False answer: She abandoned her artistic ambitions to marry and focus on family life.
+False answer: She compromised by limiting herself to socially acceptable pastimes like painting on dishes.
+False answer: She ran away from home and cut off all contact with her family to study art in secret.
+```
 
 ----------------------------------------------------------------------------------------
 
@@ -630,11 +674,11 @@ You Save: $49.40 (83%)
 Issues: 10 issues/12 months
 
 Generated quiz:
-Question: Which magazine is specifically aimed at an educated general audience interested in modern science topics?
-True answer: Discover
-False answer: Self
-False answer: InStyle
-False answer: Wired
+Question: According to the passage, what economic priority does Mayor Ravenstahl highlight for Pittsburgh?
+True answer: Retaining the city's 50,000 college students and increasing downtown development.
+False answer: Reopening steel mills to restore the city's industrial base.
+False answer: Promoting suburban expansion instead of investing in downtown.
+False answer: Reducing university enrollment to curb youth unemployment.
 
 ----------------------------------------------------------------------------------------
 
@@ -645,11 +689,13 @@ London Heathrow is the biggest airport in the UK, and it also handles more inter
    By lunchtime on that first day, 20 flights had been cancelled to try to alleviate the problems. Flights continued to be cancelled in the days following the opening and up to 28,000 bags have now had to be placed in temporary storage. The British Airline, the only airline operating at Terminal 5 says it is working to clear the backlog, but the negative publicity caused by the shambles has not helped the airport or the airline's reputation at all.
 
 Generated quiz:
-Question: What was a major cause of the initial chaos at Heathrow’s new Terminal 5 after its opening?
-True answer: Staff struggled with new systems and faced access issues, leading to delays and a baggage backlog.
-False answer: The terminal’s construction was incomplete, leaving key areas closed.
-False answer: Severe weather caused runway closures and widespread flight diversions.
-False answer: A power outage shut down all security checkpoints and baggage belts.
+```
+Question: Among Americans who do read, people from which region tend to read more books than those from other regions, according to the survey?
+True answer: The South
+False answer: The West
+False answer: The Midwest
+False answer: The Northeast
+```
 
 ----------------------------------------------------------------------------------------
 
@@ -663,11 +709,13 @@ By the way, why are British people so shocked about eating horsemeat? In history
 But this is not the only reason for the protest: Customers also want to be sure that the products they buy contain what it says on the label. Hopefully, supermarkets can avoid mistakes like that in the future. Maybe there should be stricter regulations and more controls of our food? Otherwise we will soon find ourselves eating panda meat instead of pork and parrot instead of chicken. So the next time you are in a supermarket maybe check the ingredients of your food before you buy it or you could get a nasty surprise ...
 
 Generated quiz:
-Question: According to the passage, why were many people in the UK particularly upset about the Tesco burger scandal beyond the immediate health concern?
-True answer: Because horses are seen as majestic animals or pets in Britain, and people expect labels to accurately state what’s in their food.
-False answer: Because horsemeat is illegal to sell in any form in the UK.
-False answer: Because Tesco refused to remove the burgers or offer refunds to customers.
-False answer: Because social media encouraged people to boycott all supermarkets regardless of their practices.
+```
+Question: According to the passage, what problem do officials identify with the Healthy Families Program?
+True answer: Many people enroll and then drop out because the program still costs too much.
+False answer: Too few people are aware of the program.
+False answer: The program is only for people on welfare.
+False answer: The program is free, so people overuse it.
+```
 
 ----------------------------------------------------------------------------------------
 
@@ -686,11 +734,11 @@ January 9, 2009
 Today I met with the producer and director ofLongwei Xiaozi ,and I also brought along my friend's daughter for a screen test. Although my friend's daughter grew up in China, her English is very good and it just happened by chance that this movie needs a young actress for a part, so I took her along to audition .
 
 Generated quiz:
-Question: What was the purpose of Jackie Chan’s appearance on the Beijing TV program “Volunteers Across China” on January 5, 2009?
-True answer: To support a show encouraging awareness and help for “good people” in difficult situations.
-False answer: To promote his new movie with director John Wu.
-False answer: To announce the launch of his automobile website.
-False answer: To audition as a singer for a music competition.
+Question: What is the primary purpose of the Dixie PIT coffee shop at Dixie Heights High School?
+True answer: To help students, many with special learning needs, prepare for life after high school by teaching them work and life skills.
+False answer: To raise money for school sports programs.
+False answer: To implement a nutrition initiative focused on serving only non-fat milk drinks.
+False answer: To showcase the work of art and business students.
 
 ----------------------------------------------------------------------------------------
 
@@ -709,11 +757,11 @@ Then they met in the middle, taking each other's hands. "I'm terribly sorry for 
 Then they turned to see the carpenter, who was ready to go. "No, wait! Stay a few days. I have a lot of other jobs for you," said Farmer John. "I'd love to stay," the carpenter said, "but I have more bridges to build."
 
 Generated quiz:
-Question: Why did the carpenter build a bridge instead of the fence Farmer John requested?
-True answer: To help reconcile the two neighbors by connecting their farms rather than dividing them.
-False answer: Because he didn’t have enough materials to build an 8-foot fence.
-False answer: Because Farmer Bob paid him more to build a bridge.
-False answer: Because the stream made it impossible to construct any kind of fence.
+Question: Why is Governor Brown's latest announcement about water use different from previous cutbacks in California?
+True answer: It is the first time the state has imposed mandatory statewide water restrictions.
+False answer: It is the first time Californians have been asked to conserve water.
+False answer: It completely bans outdoor watering year-round.
+False answer: It reduces the statewide cutback target from 20 percent to 10 percent.
 
 ----------------------------------------------------------------------------------------
 
@@ -726,11 +774,11 @@ Having fun and being relaxed are not the only best things about the holiday. You
 Unlike traditional holidays, International Talk Like A Pirate Day is a brand new holiday which is invented by the youth themselves and celebrated by themselves too. Because of Baur and Summers' imagination and creativity, thousands of young people's pirate dream come true. Next time, when you have a good idea, why not share it with your fiends and insist on your belief? Maybe you can create another wonderful holiday for the youth in the future.
 
 Generated quiz:
-Question: What most contributed to International Talk Like A Pirate Day becoming widely known?
-True answer: Dave Barry promoted it after receiving a letter from Baur and Summers in 2002.
-False answer: A major movie studio created a film about the holiday.
-False answer: Schools worldwide added it to their official calendars from the start.
-False answer: It was declared a national holiday by the U.S. government in 1995.
+Question: According to the passage, what is one reason the wax figures at the Gold Coast Wax Museum appear so lifelike?
+True answer: Their eyes are so realistic that they seem to follow visitors around.
+False answer: They contain hidden motors that animate their facial expressions.
+False answer: The museum projects holograms onto the figures to simulate movement.
+False answer: Live actors stand beside the figures to speak for them.
 
 ----------------------------------------------------------------------------------------
 
@@ -758,11 +806,11 @@ Performances: Evenings 7:45. October 10-17, at 2:30 pm. No Monday performances.
 Admission: Tues-Thurs: L2- 5; Fri & Sat: L2- 6.
 
 Generated quiz:
-Question: If you want to see a Sue Townsend work performed as a musical, where and when can you go?
-True answer: Grand Theatre in Leeds, evenings at 7:45 and at 2:30 pm from October 10–17 (no Monday performances).
-False answer: York Theatre Royal, any evening between Sept 23 and Oct 17.
-False answer: City Varieties, Oct 10–11 at 8 pm nightly.
-False answer: Halifax Playhouse, Oct 10–17 at 7:30 pm.
+Question: According to the passage, what is essential for creating a positive school environment?
+True answer: Adults and students both communicate politely and share responsibility.
+False answer: Adults alone should impose strict control to keep students in line.
+False answer: Students should avoid interacting with adults unless absolutely necessary.
+False answer: All sources of stress should be eliminated so no one faces challenging days.
 
 ----------------------------------------------------------------------------------------
 
@@ -778,11 +826,13 @@ The first US President to live in the White House was John Adams. Adams and his 
 President John Tyler (1841-1845) was the first president to have his photo taken. President Theodore Roosevelt (1901-1909) was not only the first president to ride in an automobile, but also the first president to travel outside the country when he visited Panama  . President Franklin Roosevelt (1933-1945) was the first president to ride in an airplane.
 
 Generated quiz:
-Question: According to the passage, which president officially gave the White House its current name?
-True answer: President Theodore Roosevelt in 1901.
-False answer: President Franklin Roosevelt in 1933.
-False answer: President John Adams in 1800.
-False answer: President Thomas Jefferson during his term (1801–1809).
+```
+Question: Which president officially gave the White House its current name?
+True answer: Theodore Roosevelt
+False answer: John Adams
+False answer: Thomas Jefferson
+False answer: Franklin Roosevelt
+```
 
 ----------------------------------------------------------------------------------------
 
@@ -796,11 +846,11 @@ Advertisements in magazines and on television reach many people, too. However, u
 Then there are ads that are almost part of daily living. If you use public transportation, you will see large printed ads, called ear cards, on buses and taxis and in trains. Ads are painted on the trucks that deliver products people are buying or selling.
 
 Generated quiz:
-Question: Why do some people consider radio commercials the best form of advertising according to the passage?
-True answer: Because radio broadcasts reach almost everyone in a nation.
-False answer: Because radio commercials are the cheapest form of advertising.
-False answer: Because radio allows only local companies to advertise.
-False answer: Because radio ads can include detailed pictures and visuals.
+Question: Despite high enrollment and attendance, what does the passage identify as the main obstacle to better educational outcomes in India?
+True answer: Poor delivery of education—teachers are poorly trained and often absent.
+False answer: A lack of schools and low entry rates.
+False answer: Parents’ reluctance to send children to school, especially in rural areas.
+False answer: Insufficient government funding because there is no dedicated education tax.
 
 ----------------------------------------------------------------------------------------
 
@@ -812,11 +862,11 @@ Some UK students have already realized the potential danger. Daisy Jones, 21, an
 Jones is among the few to have realized the risks. 79% of the users, however, believed the time they spent on the site had no impact on their work. The CEO of Facebook said, "There is also academic research that shows the benefits of services like Facebook. It's in the hands of students to decide how to spend their time."
 
 Generated quiz:
-Question: What main conclusion did Aryn Karpinski’s study draw about students’ Facebook use?
-True answer: Students who spend more time on Facebook tend to spend less time studying and perform worse academically.
-False answer: Facebook users generally earn higher grades due to improved communication skills.
-False answer: Facebook use has no measurable relationship to study time or academic performance.
-False answer: Only graduate students are negatively affected by Facebook use, not undergraduates.
+Question: According to Jack's mother, what explains the screams and shouting Jack heard in the park that night?
+True answer: A movie was being shot there.
+False answer: A crime was taking place in the park.
+False answer: A late-night soccer tournament was underway.
+False answer: A Halloween haunted event had started.
 
 ----------------------------------------------------------------------------------------
 
@@ -829,11 +879,13 @@ I love this healthy diet program because it helps you lose weight, lose inches, 
 To get started being slim, just Click Here.
 
 Generated quiz:
-Question: What makes this 8-week diet program different from other diet regimes, according to the passage?
-True answer: It prioritizes proper nutrition first and weight loss second.
-False answer: It requires strict fasting with fewer than 1,000 calories a day.
-False answer: It focuses solely on intense exercise rather than diet.
-False answer: It promises immediate results within the first 48 hours.
+```
+Question: According to the passage, what strategy does "Slim by Design" advocate to help people eat less without thinking about it?
+True answer: Redesign everyday eating environments—restaurants, cafeterias, and homes—so mindless choices are nudged toward healthier ones.
+False answer: Rely on strict willpower and calorie counting to consciously control portions.
+False answer: Avoid restaurants altogether and eat only home-cooked meals.
+False answer: Focus primarily on vigorous exercise rather than changing eating settings.
+```
 
 ----------------------------------------------------------------------------------------
 
@@ -850,11 +902,11 @@ When the conversation was concluded the broker asked him his e-mail. The man rep
 The broker answered curiously, "You don't have an e-mail, and yet have succeeded to build an empire. Can you imagine what you could have been if you had an e-mail?" The man thought for a while and replied, "Yes, I'd be an office boy at Microsoft!"
 
 Generated quiz:
-Question: What is the main lesson illustrated by the man's journey after being rejected by Microsoft?
-True answer: Lack of conventional credentials or tools (like email) does not determine success; resourcefulness and hard work can create greater opportunities.
-False answer: Having an email is essential to becoming a successful entrepreneur.
-False answer: The best way to get rich is by selling tomatoes door to door.
-False answer: Corporate jobs are always inferior to starting a business.
+Question: What does the man's final reply to the broker imply about the effect of not having an e-mail?
+True answer: It led him to become a successful entrepreneur instead of an office boy at Microsoft.
+False answer: He plans to get an e-mail so he can finally take the Microsoft job.
+False answer: He believes having an e-mail would have made him even more successful than he is now.
+False answer: He regrets becoming a food retailer and wants to change careers.
 
 ----------------------------------------------------------------------------------------
 
@@ -868,11 +920,11 @@ Mira began to run to her house and shouted, "The turtles are hatching! We have t
 In a rush she was off running down the dunes with her whole family following her. They reached the beach just in time to see the tiny turtles slipping silently into the waves. Mira watched as the last turtle entered the water. As the turtle swam away, it looked back at Mira. In the moonlight, Mira thought she saw it smile.
 
 Generated quiz:
-Question: Why did the baby turtles initially head toward the dunes instead of the sea?
-True answer: They were confused by the bright lights from houses on the dunes.
-False answer: They were following Mira’s footsteps in the sand.
-False answer: They were seeking warmth from the sun-heated dunes.
-False answer: They were trying to return to their underground nests.
+Question: Why were the baby turtles heading toward the dunes instead of the sea?
+True answer: Because the bright lights from houses on the dunes confused them.
+False answer: Because they were trying to avoid predators near the shoreline.
+False answer: Because the cooler night air near the waves made them turn back.
+False answer: Because Mira and her family scared them away from the water.
 
 ----------------------------------------------------------------------------------------
 
@@ -886,11 +938,13 @@ Life is too short to waste a moment, so while you still have time, let your hair
 5. Try Out Something New. Getting into something or trying something unfamiliar to you may seem scary, but nothing can make you feel happier than being able to overcome your fear. Who knows? You might enjoy it! The world is a big place and there are still lots of things waiting to be explored by you. Go to a foreign place where you know no one.
 
 Generated quiz:
-Question: According to the passage, why is it important to take risks in life?
-True answer: Because challenges and failure are part of life, and taking risks prevents you from letting moments pass you by.
-False answer: Because taking risks guarantees you will always succeed at your goals.
-False answer: Because psychologists say risk-taking eliminates unhappiness entirely.
-False answer: Because taking risks allows you to avoid making any plans or timelines.
+```
+Question: According to the Population Action International study, which long-term measure is necessary to address the global water shortage?
+True answer: Implementing controls on population growth
+False answer: Building more dams and reservoirs
+False answer: Relying on large-scale seawater desalination
+False answer: Raising water prices to reduce consumption
+```
 
 ----------------------------------------------------------------------------------------
 
@@ -901,11 +955,13 @@ Then, the light turned green and all of us walked quickly across the road. The l
 When the light turned dreen again, I ran over to the other side, offered the old lady my right hand and we quickly walked together to the other side of the road. I used my left hand to stop any oncoming   traffic so that even if the crossing signal turned red, we cuold make it to the other side safely. In the meantime, both the man and his wife realized that they had left the old woman behind and they ran back.. The old lady was in tears and told me, "Young man, you are more caring   than my son," and then gave me a warm handshake  . The man and woman were sorry about what happened and also thanked me. Before leaving, the old lady gave me a big smile, which I have cherished   even to this day. She kept waving and waving until we couldn't see each other any more.
 
 Generated quiz:
-Question: Why did the old lady tell the narrator, "Young man, you are more caring than my son"?
-True answer: Because he helped her cross safely when she was left behind at the crossing.
-False answer: Because he offered to drive her home after the incident.
-False answer: Because he found and returned her lost handbag.
-False answer: Because he scolded her son for abandoning her.
+```
+Question: Which argument do opponents of paying college athletes make in the passage?
+True answer: Salaries could push students to prioritize sports over academics, and most will not become professional athletes.
+False answer: Athletes train so many hours they don’t have time for part-time jobs, so they should earn salaries.
+False answer: Players generate ticket revenue for their schools and deserve a share of that money.
+False answer: Sports fund new stadiums and high coaching salaries, so athletes should be paid as well.
+```
 
 ----------------------------------------------------------------------------------------
 
@@ -920,11 +976,13 @@ The happy couple finally got married at Jonsson's home in Sweden on the island o
 Has Ulrika Jonsson finally found Mr. Right? Only time will tell. But none of the guests at the wedding could deny the happiness in the couple's eyes as the bride and groom left the wedding ceremony with the music of Stevie Wonder playing in the background, "Seen a lot of things in this old world. When I touched them, they did nothing, girl. Ooh baby, here I am, signed, sealed, delivered, I'm yours."
 
 Generated quiz:
-Question: What was the most unexpected outcome of the TV show Mr. Right as described in the passage?
-True answer: The bachelor fell in love with the show's host, Ulrika Jonsson, and later married her.
-False answer: The bachelor married the first contestant he dated on the show.
-False answer: The show ended with no one being chosen because all contestants left.
-False answer: The bachelor and his chosen contestant married on the final episode.
+```
+Question: According to the passage, why do many people prefer walking around Manchester's city center?
+True answer: Because there's so much to see, and much of it is off the main travel lines.
+False answer: Because buses are scarce in the city center.
+False answer: Because the city center is closed to traffic.
+False answer: Because walking is the only way to reach the Manchester United Museum.
+```
 
 ----------------------------------------------------------------------------------------
 
@@ -937,11 +995,13 @@ The climbing has put Romero one step closer to reaching his goal of climbing the
 The youngest person before to climb Everest was 16-year-old Temba Tsheri Sherpa of Nepal. Romero climbed together with a team including his father Paul and three local guides. He wanted to pick a small piece of rock from the top of the world and wear it in a necklace. While Nepal insists that anyone planning to climb Mount Everest must be at least 16, China does not have any age restrictions  . Some mountain climbers haven't agreed with the Romero family for letting him try it but his father said the climbing from the Chinese side is less dangerous.
 
 Generated quiz:
-Question: Why was Jordan Romero able to attempt climbing Mount Everest at age 13?
-True answer: Because China, the side he climbed from, has no age restrictions for Everest.
-False answer: Because Nepal lowered its minimum climbing age to 13 that year.
-False answer: Because his team obtained a special international exemption for minors.
-False answer: Because the age limit does not apply when climbing with local guides.
+```
+Question: According to the passage, why do many department stores place the women's shoe section next to the cosmetics section?
+True answer: To encourage customers waiting for shoes to browse cosmetics they might want to try later.
+False answer: To allow the same sales assistants to sell both shoes and cosmetics, reducing labor costs.
+False answer: Because shoes and cosmetics are typically purchased together as a set.
+False answer: Because both departments require the same lighting, simplifying store design.
+```
 
 ----------------------------------------------------------------------------------------
 
@@ -954,11 +1014,11 @@ According to the website Bookpages, today's vampires have all our cultural desir
 "In many ways, the vampire story shows up teenage concerns," said Wells. "The emotional intensity   of the relationship with the vampire matches the intensity of how it feels to have your first real love affairs. Your first real love, it really feels like life and death."
 
 Generated quiz:
-Question: According to the passage, why might modern teenagers be particularly drawn to vampire stories like Twilight?
-True answer: Because the intense vampire–human relationships mirror the emotional intensity of teens’ first real love and challenge traditional ideas.
-False answer: Because vampires in modern stories are portrayed as older, ugly figures that represent fears about declining empires.
-False answer: Because vampire tales primarily teach scientific facts and reinforce parental authority.
-False answer: Because vampires have been unpopular in recent centuries, making them novel to modern teens.
+Question: According to the passage, how do some private high schools help students get ready for college?
+True answer: They work with colleges so teachers teach college-relevant skills and college instructors are available to advise students.
+False answer: They guarantee graduates automatic admission to nearby colleges.
+False answer: They reduce tuition to make college more affordable.
+False answer: They let students skip their first year of college.
 
 ----------------------------------------------------------------------------------------
 
@@ -977,11 +1037,11 @@ If you're a man and you're reading this, congratulations: you're a survivor. Acc
 Regular check-ups for men would put strain   on the public purse, Cartmill says. "But prevention is cheaper in the long run than having to treat the diseases. Besides, the final cost is far greater; it's called premature  death."
 
 Generated quiz:
-Question: According to the passage, what is a key reason men should have regular medical check-ups, especially after age 45?
-True answer: Early detection can identify diseases sooner, potentially prolonging life even if not curing the illness.
-False answer: Regular check-ups will guarantee that men live longer than women.
-False answer: Check-ups are primarily to reduce the cost of car servicing compared to body servicing.
-False answer: Men are less likely than women to develop serious diseases, so check-ups are mostly unnecessary.
+Question: What do several studies, including those by Harvard Business School, reveal about participation on microblogging platforms like Twitter?
+True answer: A small group of highly active users contribute most of the activity.
+False answer: Most users contribute at roughly the same level.
+False answer: Activity is primarily produced by automated corporate accounts.
+False answer: Overall usage is steadily declining across all microblogging services.
 
 ----------------------------------------------------------------------------------------
 
@@ -1000,11 +1060,13 @@ By Marc Bekoff
 West Hollywood's ban is a move in the right direction. However, we must work to ban the sales of leather and hides, too. Furs come from animals who are attacked to become clothing, while some leather and hides come from slaughterhouse  animals. We must remember that when people choose to wear fur, leather and hides, they are wearing formering conscious beings. So it's a matter of who they are wearing, not what they are wearing because these animals must be referred to as who and not what or that.
 
 Generated quiz:
-Question: Which statement best captures the main disagreement among the authors about West Hollywood’s fur ban?
-True answer: Whether the ban should extend to leather and hides, with one author opposing animal rights entirely and two arguing the ban should include leather as well.
-False answer: Whether West Hollywood has the legal authority to regulate any clothing sales.
-False answer: Whether fur is more fashionable than leather in local stores.
-False answer: Whether ostrich meat is healthier than other meats.
+```
+Question: According to the passage, which approach might help scientists predict an earthquake?
+True answer: Monitoring animals for unusual behavior.
+False answer: Measuring local wind speed.
+False answer: Checking the phases of the moon.
+False answer: Counting how many volcanoes are nearby.
+```
 
 ----------------------------------------------------------------------------------------
 
@@ -1018,11 +1080,13 @@ However, others struggle to grow shoulder length hair.These people have a shorte
 Your health can also affect hair growth.Poor nutrition can cause some hair follicles to stop growing or cause the hairs that grow to become weak or thin.Problems with hair growth can result from thyroid (^?K JSO problems or other conditions.Health experts say people who experience a sudden increase in hair loss should seek medical advice.
 
 Generated quiz:
-Question: According to the passage, what primarily determines how long and fast a person’s hair can grow?
-True answer: Their genes, which control the length and speed of the anagen period.
-False answer: The amount of attention their hair receives from others.
-False answer: Whether the hair is curly or straight.
-False answer: The number of hairs that fall out during the telogen period.
+```
+Question: According to the passage, what does it state about butterfly diversity in Sichuan Province?
+True answer: About 702 species have been discovered there, a number equal to the total found in Europe.
+False answer: Sichuan has fewer butterfly species than Europe.
+False answer: Sichuan has over 30,000 butterfly species because of the park’s collection.
+False answer: Only about 500 butterfly species exist in Sichuan, mostly in the Longmen Mountain area.
+```
 
 ----------------------------------------------------------------------------------------
 
@@ -1036,11 +1100,13 @@ The third step is to keep a record of your language learning. You can write this
 You must be active in learning English and believe that you can do it. It is important to practise every day and make a record of your achievements. You will enjoy learning English, and you will feel more confidence in yourself.
 
 Generated quiz:
-Question: According to the passage, which combination best supports successful English learning?
-True answer: Believe you can learn, practise daily (speaking and writing), and keep a record of your achievements.
-False answer: Focus on memorizing grammar rules only and avoid making mistakes.
-False answer: Wait until you understand everything before trying to speak or write.
-False answer: Study intensively once a week instead of practising every day.
+```
+Question: Why did China's sports media say Lang Ping's potential coaching of the US women's team for the 2008 Beijing Olympics would be hard to accept?
+True answer: Because it would directly challenge China’s goal of winning the women’s volleyball medal, and her status as a Chinese volleyball icon would make seeing her with the opponents difficult for players, coaches, and fans.
+False answer: Because they believed she lacked sufficient international coaching experience.
+False answer: Because she had already accepted the US offer without informing Chinese officials.
+False answer: Because Olympic rules prohibit former players from coaching foreign national teams.
+```
 
 ----------------------------------------------------------------------------------------
 
@@ -1051,11 +1117,11 @@ Up a hill lived Lubeck's neighbors, Jeremie Wentworth and his wife. From his hou
 Within the year, Lubeck and his family built a new two-story house at the place. Wentworth and Lubeck don't run into each other often, but Lubeck now knows that if he ever needs help, Wentworth will be there.
 
 Generated quiz:
-Question: Why did Jeremie Wentworth decide to enter Lubeck’s burning house despite the 911 worker’s warning?
-True answer: Because he could hear Lubeck shouting for help and felt he couldn’t do nothing.
-False answer: Because he believed the fire was already out and the house was safe.
-False answer: Because he knew Lubeck’s family was trapped upstairs with him.
-False answer: Because the 911 worker instructed him to climb a ladder to the second floor.
+Question: Which book is set in Brooklyn, New York, during World War I?
+True answer: While We're Far Apart
+False answer: The Jungle Book
+False answer: A Stolen Life
+False answer: The Fashion Police
 
 ----------------------------------------------------------------------------------------
 
@@ -1074,11 +1140,11 @@ As the year progressed, we spent many hours discussing literature and ideas abou
 Fifteen years later I still drive that same winding road to the same school. Thanks to the help I received that difficult first year, the school is my home now.
 
 Generated quiz:
-Question: What key advice did the narrator’s boss give that changed her approach to teaching?
-True answer: Engage students by discussing the core of literature, address misbehavior directly, and talk with them rather than at them.
-False answer: Focus exclusively on symbolism to raise academic rigor and ignore classroom behavior.
-False answer: Give more homework so students have less energy to misbehave.
-False answer: Lower expectations by choosing easier texts to keep students entertained.
+Question: According to the passage, what did linguists believe was the broader impact of Noah Webster’s dictionary on the United States?
+True answer: It helped the new nation achieve unity and cultural independence.
+False answer: It made Americans adopt British spellings and pronunciations.
+False answer: It shifted the nation's focus from political freedom to language reform.
+False answer: It was rarely used in schools and had little influence.
 
 ----------------------------------------------------------------------------------------
 
@@ -1091,11 +1157,13 @@ At the start of 2013, the debate on whether it is OK to take photographs of your
 Nevertheless, instead of banning food photography, some restaurants are offering food photography courses. In Spain, the restaurant group Grupo Gourmet has started running a " Fotografia para foodies" course to instruct its customers to better take food pictures. The course teaches customers to take photos in a proper way without disturbing other dinners, such as never use a flash.
 
 Generated quiz:
-Question: What is one way some restaurants have responded to the issue of customers photographing their food?
-True answer: They offer courses teaching customers how to take food photos without disturbing others.
-False answer: They require all diners to post their food photos on the restaurant’s social media.
-False answer: They encourage using flash to make the food look brighter.
-False answer: They seat photographers in a separate room designated for taking pictures.
+```
+Question: According to the passage, what alternative to banning food photography have some restaurants chosen?
+True answer: Offering courses that teach customers how to take food photos properly without disturbing others.
+False answer: Installing brighter lighting so customers can photograph without flash.
+False answer: Designating specific time slots when taking pictures is allowed.
+False answer: Providing selfie sticks and tripods to diners to improve their shots.
+```
 
 ----------------------------------------------------------------------------------------
 
@@ -1109,11 +1177,13 @@ Do regular fire drills to practice your evacuation plan so that your family know
 Quick, determined response to a fire will save your family members' lives.
 
 Generated quiz:
-Question: According to the passage, why is practicing regular fire drills with an evacuation plan important for families?
-True answer: It ensures everyone knows the exits and can respond quickly without wasting time during a chaotic fire.
-False answer: It helps children learn how to operate lighters and matches safely.
-False answer: It guarantees that door handles will always be cool to the touch during a fire.
-False answer: It teaches children to run quickly when their clothes catch fire.
+```
+Question: Which of the following is cited in the passage as evidence that Shakespeare is "thriving" today?
+True answer: Membership in the Shakespeare Association of America has increased by a third since 1990.
+False answer: National media report that fewer students are taking Shakespeare courses.
+False answer: Publishers are reducing the number of Shakespeare editions due to low demand.
+False answer: Recent Shakespeare films have performed poorly at the box office.
+```
 
 ----------------------------------------------------------------------------------------
 
@@ -1126,11 +1196,11 @@ Black bears, on the other hand, have been keeping busy gathering nuts and apples
 Snow amounts can also determine how comfortable bears are and how quickly they consume their accumulated fat during hibernation , noted Hammond in the article. This is because snow covers and traps them in their winter homes, and also hides them from predators.
 
 Generated quiz:
-Question: According to the passage, why did officials advise residents to delay putting out bird feeders until lasting snow falls?
-True answer: To reduce attracting active bears that are still foraging due to the lack of snow.
-False answer: To prevent birds from becoming dependent on feeders before migration.
-False answer: Because bird food spoils quickly in warm weather brought by El Niño.
-False answer: To encourage bears to finish hibernation earlier in the season.
+Question: How did Hamad Bin Hamdan Al Nahyan ensure his giant sand inscription would not be washed away by the ocean?
+True answer: He designed the letters as waterways that absorb the encroaching tide.
+False answer: He reinforced the sand with concrete.
+False answer: He built a protective sea wall around the name.
+False answer: He hires workers to redraw the letters after each high tide.
 
 ----------------------------------------------------------------------------------------
 
@@ -1143,11 +1213,13 @@ It was a hard job to come by. Before he got the job, Mr. Torres was determined t
 One day a while ago marked the first anniversary of Mr. Torres's hiring. He developed 150 or so X-rays, his usual output, to celebrate. Mr. Torres works by himself in a small, dark room that smells of chemicals. He cannot wear gloves, because he needs to feel. It is hard work, related to emergency of lives. His immediate supervisor says he trusts him 100%. Mr. Torres makes $20,000 a year. But his motivation goes beyond money. "If I start feeling like a victim, that makes me bitter. And why be bitter? That makes you go into a hole and stay there." he said. "I'm not doing anything out of the ordinary," insisted Mr. Torres as he quickly completed the task.
 
 Generated quiz:
-Question: What best explains why Mr. Torres was a strong candidate for developing X-ray film at the Bronx hospital?
-True answer: The work is done in the dark, allowing a blind person to perform it effectively.
-False answer: He had previously worked as a radiologist for 19 years.
-False answer: The hospital needed someone to train guide dogs for staff.
-False answer: He lived next door to the hospital and could arrive on short notice.
+```
+Question: According to the report, how are many consumers likely to behave even as the economy improves?
+True answer: They plan to continue the conservative shopping habits adopted during the downturn.
+False answer: They will quickly return to buying nonessential items as before.
+False answer: They did not significantly change their shopping habits in the first place.
+False answer: They aim to increase spending beyond pre-recession levels to support retailers.
+```
 
 ----------------------------------------------------------------------------------------
 
@@ -1160,11 +1232,13 @@ Then on Wednesday the young man said to his servant, "You're a nice, kind man. I
 The servant smiled and said, "And I'm not going to put any more mud from the street in your coffee."
 
 Generated quiz:
-Question: What is the main reason the servant remains calm despite the young man's pranks?
-True answer: He has been secretly getting back at the young man by putting mud from the street in his coffee.
-False answer: He is too afraid of losing his job to show any anger.
-False answer: He believes the pranks are unintentional accidents.
-False answer: He hopes the young man will reward him for his patience.
+```
+Question: Which statement best captures a key difference in business meeting culture between Brazil and Singapore?
+True answer: In Singapore, meetings are fast-paced and arriving on time is expected, whereas in Brazil schedules are flexible and meetings may start later than planned.
+False answer: In Brazil, people prefer emails or phone calls over face-to-face meetings, while in Singapore people avoid direct discussions, especially about money.
+False answer: Both countries expect business meals and meetings to be rushed and brief.
+False answer: In Singapore, meetings often start later than planned, while in Brazil arriving late is considered disrespectful.
+```
 
 ----------------------------------------------------------------------------------------
 
@@ -1182,11 +1256,11 @@ Professor John Parnell, also from Aberdeen University said: "There is a signific
 So the Aberdeen team are developing models to predict which distant planets might harbour underground reservoirs of liquid water with the possibility of alien life.
 
 Generated quiz:
-Question: How do the new Aberdeen University models change the way scientists estimate where life might exist on other planets?
-True answer: They consider planets with underground liquid water heated from the planet’s interior, not just surface water in the habitable zone.
-False answer: They focus only on planets with thick atmospheres that prevent evaporation near their star.
-False answer: They expand the habitable zone by assuming ice on the surface guarantees life.
-False answer: They exclude planets far from their stars because internal heat cannot sustain liquid water underground.
+Question: What realization did the author have during her first Thanksgiving with her adoptive family?
+True answer: That she would never have to spend another holiday alone.
+False answer: That she preferred holidays without extended family.
+False answer: That she missed her foster placements and wanted to return.
+False answer: That her adoptive family expected her to remain a guest.
 
 ----------------------------------------------------------------------------------------
 
@@ -1198,11 +1272,13 @@ Strawderman's five-year program teaches him technical skills free of charge. He 
 But Chad Aldeman, an analyst, says studies show the longer students saty in school the better chance they have at having a high paying and stable career. "If you only are a high school graduate your wages are going to drop over your lifetime-as opposed to a college degree," he said. "The college degree is really and insurance policey against unemployment and against low wages."
 
 Generated quiz:
-Question: What is the main argument made by Economics Professor Robert Lerman about the U.S. education system?
-True answer: It is too focused on pushing students toward university, overlooking alternative paths to rewarding careers.
-False answer: It should require all students to complete a five-year apprenticeship before attending university.
-False answer: It already offers enough non-university options for students who are bored in high school.
-False answer: It should reduce technical training programs because they lead to lower lifetime wages.
+```
+Question: According to the passage, why does painting the paper with purple grape juice reveal a baking-soda invisible ink message?
+True answer: Because the grape juice and baking soda undergo an acid-base reaction that produces a color change.
+False answer: Because the juice warms the paper and turns the writing brown.
+False answer: Because the sugar in the juice crystallizes on the letters, making them visible.
+False answer: Because the juice bleaches the blank paper so the message looks darker.
+```
 
 ----------------------------------------------------------------------------------------
 
@@ -1218,11 +1294,11 @@ Recognizing the locations of distant sounds can be a matter of life-or-death for
 Still, the researchers were surprised by how well the blind participants did, especially those who went blind after age 16. In another experiment, the scientists also found that parts of the brain that normally deal with visual information became active in locating sound in the people who were blind by age 11. These brain parts didn't show sound-location activity in the other group of blind people or in the sighted people. The scientists now want to learn more about the working of brains of "late-onset" blind people.
 
 Generated quiz:
-Question: According to the study, in which situation did blind participants outperform blindfolded sighted participants?
-True answer: When identifying sounds coming from the side or the back.
-False answer: When identifying sounds directly in front of them.
-False answer: When touching nearby sound sources within arm’s reach.
-False answer: When recognizing car types while crossing the street.
+Question: In Joke 2, why does the boss say "that makes everything just fine" after the employee says he believes in life after death?
+True answer: Because the boss says the grandmother the employee left to attend her funeral “stopped in” at the office afterward.
+False answer: Because the boss also believes in life after death and approves of the employee’s views.
+False answer: Because the employee promised to work extra hours to make up for leaving early.
+False answer: Because the grandmother called the office to confirm the funeral details.
 
 ----------------------------------------------------------------------------------------
 
@@ -1233,11 +1309,13 @@ London contains four World Heritage Sites: the Tower of London, the historic set
  _ On July 2007, it had an official population of 7,556, 900 within the boundaries of Greater London making _ the most populous municipality in the European Union. Since the 2001 the Greater London Urban Area has been the second largest in the EU after Paris with a population of 8,278,251, and the metropolitan area is estimated to have a total population of between 12 million and 13 million, the largest population area in the EU. The public transport network, administered by Transport for London, is the most intensive in the world. Heathrow Airport is the busiest airport in the world by international passenger traffic and the air space is the busiest of any city in the world.
 
 Generated quiz:
-Question: According to the passage, which statement best explains why London is considered a major global city?
-True answer: Its influence across politics, education, entertainment, media, fashion, and the arts, combined with its role as a leading financial center, contributes to its global status.
-False answer: Its status comes solely from being the most populous municipality in the European Union.
-False answer: It is considered global mainly because it has hosted more Olympic Games than any other city.
-False answer: Its designation as a global city is due primarily to having the oldest World Heritage Sites in Europe.
+```
+Question: What do Ted Schredd and Deanna Kopel want people to know from the book they plan to write about their trip?
+True answer: That you can protect our earth and still have fun.
+False answer: That traveling by plane is the best way to help the environment.
+False answer: That long-distance cycling is only possible if you have a lot of money.
+False answer: That you should quit your job and sell everything before taking any trip.
+```
 
 ----------------------------------------------------------------------------------------
 
@@ -1251,11 +1329,13 @@ But there are obvious conflicts.Many people like to have a bar within walking di
 I was most interested by the proposals aimed at behavioral change.There was strong support for measures to reduce traffic: better public transport, cycle ways and footpaths, even charges for road use.Many people optimistically thought industry awards for better equipment would stimulate the production of quieter appliances.It was even suggested that noise from building sites could be alleviated   if Brisbane adopted daylight saving, thus shifting the working day and providing longer, quieter evenings.
 
 Generated quiz:
-Question: What change did participants at the Brisbane forum most strongly support to improve the handling of noise issues?
-True answer: Creating a 24-hour noise hotline as the first point of call for all complaints.
-False answer: Banning all late-night operations at bars and pubs citywide.
-False answer: Transferring all noise regulation solely to the police.
-False answer: Immediately replacing all noisy appliances with government-funded quieter models.
+```
+Question: According to Dr. Silva, what best explains how technology and family life influence each other?
+True answer: Technological change occurs because people's lives and choices change, with families actively helping to drive innovation.
+False answer: Technology inevitably damages the quality of family life.
+False answer: Technological advances are mainly driven by engineers' interests, not by people's desires or family needs.
+False answer: Only the economy drives societal change; families merely adapt and do not influence technology.
+```
 
 ----------------------------------------------------------------------------------------
 
@@ -1267,11 +1347,13 @@ Large companies have a difficult time switching into new markets. For example, a
 Kodak's downfall over the last several decades was dramatic. The 1980s brought new competition from Japanese film company Fuji Photo, which weaken Kodak by offering lower prices. Kodak's decision not to pursue the role of official film for the 1984 Los Angeles Olympics was a major loss. The bid went instead to Fuji, which exploited  its sponsorship to win a key role in the market.
 
 Generated quiz:
-Question: According to the passage, what was a central reason Kodak failed to adapt successfully to digital photography?
-True answer: Its company culture was too rooted in past successes, making it resistant to fully embracing the future.
-False answer: It did not foresee the rise of digital photography and was taken completely by surprise.
-False answer: It lacked the technological capability to develop digital cameras.
-False answer: It was forced out of the market solely because Fuji held a permanent monopoly after the 1984 Olympics.
+```
+Question: What directly helped Thomas Brodie-Sangster secure the lead role in The Last Legion?
+True answer: Colin Firth, his co-star from Nanny McPhee, supported him for the film’s lead role.
+False answer: Screenwriter Richard Curtis recommended him for the role after Love Actually.
+False answer: His portrayal of Paul McCartney in Nowhere Boy convinced the producers to cast him.
+False answer: His popularity from Game of Thrones earned him the lead role.
+```
 
 ----------------------------------------------------------------------------------------
 
@@ -1287,11 +1369,13 @@ sandwiches. An airline company was looking for someone to come up with a tastefu
 inexpensive and easy-to-make menu to serve on its flight. Lieberman got the job.
 
 Generated quiz:
-Question: What most contributed to Lieberman gaining attention beyond Yale?
-True answer: The popularity of his student-made show Campus Cuisine, whose tapes were passed around and reached the Food Network.
-False answer: Winning a national college cooking competition that aired on television.
-False answer: Publishing a best-selling cookbook while still an undergraduate.
-False answer: Hosting a radio program about international cuisine during his year abroad.
+```
+Question: Why is the money from selling the collected waste paper sent to schools in Inner Mongolia?
+True answer: To help them plant trees and grass in an area often hit by spring sandstorms.
+False answer: To build a paper factory in Inner Mongolia.
+False answer: To buy new exercise books for Beijing students.
+False answer: To fund student trips to experience nature in Inner Mongolia.
+```
 
 ----------------------------------------------------------------------------------------
 
@@ -1302,11 +1386,13 @@ He doesn't get up early on Sundays. John's parents both work on Sundays. John al
 ,.
 
 Generated quiz:
-Question: Why does John get up early from Monday to Saturday?
-True answer: Because he needs to arrive at school before 7:30 on weekdays and attend Drawing Club at 8:00 on Saturday mornings.
-False answer: Because his parents make him work early every morning.
-False answer: Because he has to go to KFC for breakfast before school.
-False answer: Because he must finish his homework before sunrise.
+```
+Question: Which work schedule best matches the passage's description of how American teenagers typically work during the school year?
+True answer: Working a few days after classes end and taking longer shifts on weekends.
+False answer: Working only on weekends and never on school days.
+False answer: Working full-time weekday mornings before school.
+False answer: Working only on weekdays after school and taking every weekend off.
+```
 
 ----------------------------------------------------------------------------------------
 
@@ -1315,11 +1401,13 @@ Excel row: 68 Test instance: 604
 Joe Read studied in this school for fourteen years. When he finished school, he was already eighteen years old. And then his father said to him, "You finished school, and you are a good student. Now you may go to town and get a good job. They need some clever people to work in the office. The people there can get a lot of money now. If you stay at home, you can't get money from our family." A few weeks later, Joe went to the office and asked for a job there. A man took him into a small room and gave him some questions on a piece of paper. Joe answered the questions quickly, and he gave the paper to the man. The man looked at the paper for a few minutes and then asked, "You were born on Sep. 23. But which year were you born in?" Joe answered, "Oh, every year."
 
 Generated quiz:
-Question: Why did Joe respond "Oh, every year" when asked which year he was born in?
-True answer: He misunderstood the question, thinking it asked how often his birthday occurred rather than the specific year.
-False answer: He was joking to impress the interviewer with his humor.
-False answer: He genuinely did not know his birth year.
-False answer: He refused to share personal information with the interviewer.
+```
+Question: What is the main purpose of the passage?
+True answer: To urge people to protect the environment by taking simple everyday actions.
+False answer: To promote the show "Wild China."
+False answer: To teach people how to hunt animals for their skins and meat.
+False answer: To report that wild animal populations are increasing.
+```
 
 ----------------------------------------------------------------------------------------
 
@@ -1332,11 +1420,13 @@ After the match, Mike's father said to him, "You missed a good chance   to score
 "Because there were tears   in the goalkeeper's eyes," Mike answered.
 
 Generated quiz:
-Question: Why did Mike say he kicked the ball lightly during the second half?
-True answer: Because he saw tears in the goalkeeper’s eyes.
-False answer: Because he was too tired from scoring earlier.
-False answer: Because his coach told him to pass instead of shoot.
-False answer: Because the referee warned him about kicking too hard.
+```
+Question: According to the passage, what does the prom (and similar end-of-school celebrations) primarily signify?
+True answer: The end of life as a child and the beginning of life as an adult.
+False answer: The start of college studies.
+False answer: The end of friendships formed in school.
+False answer: The beginning of living away from one’s parents.
+```
 
 ----------------------------------------------------------------------------------------
 
@@ -1345,11 +1435,13 @@ Excel row: 70 Test instance: 622
 Mr Smith goes to the town   to see his son, Tom. Tom is studying music in a school there. He tells his father he does well and his father is very happy. That evening Mr Smith buys two tickets for a concert  . They get there early after dinner. They're sitting in the hall   and listening to them playing. The music is beautiful and Mr Smith enioys it very much. But he finds  his son doesn't like it at all. Mr Smith wants to know something about Tom. So he asks, "Do you know the music?" "Yeah," answers Tom. " And what's the musician playing now?" Mr Smith asks. Tom doesn't know how to answer it. He thinks hard and then says, "... the piano."
 
 Generated quiz:
-Question: Why is Mr. Smith disappointed with Tom during the concert?
-True answer: Tom cannot identify the piece being played even though he claims to know the music.
-False answer: Tom arrives late and misses half of the concert.
-False answer: Tom says he dislikes music and wants to quit school.
-False answer: Tom falls asleep during the performance and snores loudly.
+```
+Question: Why don't Lin Tao and Chen Hai have watches?
+True answer: Because they can't look after their things very well, so their mothers don't give them watches.
+False answer: Because their school doesn't allow students to wear watches.
+False answer: Because their families can't afford to buy watches.
+False answer: Because they think watches are boring and don't want them.
+```
 
 ----------------------------------------------------------------------------------------
 
@@ -1360,11 +1452,13 @@ The Venus flytrap is a very strange plant. It grows in dry parts of the United S
 Why do plants do it? Most plants get what they need from the sun, the air, and the ground. In some places, the ground is very poor. It doesn't have all these important things, especially nitrogen . Animal meat has a lot of nitrogen, so some plants eat meat to get what they need. Let's hope that some of the bigger plants don't get the same idea!
 
 Generated quiz:
-Question: Why does the Venus flytrap eat insects like flies?
-True answer: To obtain nitrogen that is lacking in poor soil.
-False answer: To get energy directly from animal blood instead of sunlight.
-False answer: Because it cannot perform photosynthesis like other plants.
-False answer: To protect itself from predators by scaring them away.
+```
+Question: Why did the professor refuse to let Jack pass the exam this time?
+True answer: Because Jack didn’t know basic history—he couldn’t say when Napoleon had died.
+False answer: Because Jack had cheated on his history exam.
+False answer: Because the professor personally disliked Jack.
+False answer: Because Jack missed most classes due to illness.
+```
 
 ----------------------------------------------------------------------------------------
 
@@ -1377,11 +1471,11 @@ This twinkling effect causes a lot of problems for astronomers   since they cann
 ,.  (10)
 
 Generated quiz:
-Question: Why was the Hubble Space Telescope sent into space?
-True answer: To avoid atmospheric air movements that make starlight appear to twinkle.
-False answer: To get closer to the stars so they would look bigger.
-False answer: To replace all ground-based telescopes permanently.
-False answer: To test whether stars actually move across the sky at night.
+Question: What does the mother ultimately do after enduring her son's behavior?
+True answer: She leaves him and drives away.
+False answer: She sells his computer and forces him to go back to school.
+False answer: She forgives him, and he promises to change.
+False answer: She calls the police to discipline him.
 
 ----------------------------------------------------------------------------------------
 
@@ -1393,11 +1487,11 @@ The book is now the biggest selling book on amazon.Cn.last month, it sold 25,000
 In the past, people thought colouring books are only for children.With Secret Garden getting more and more popular, many young adults also begin to paint as a hobby.
 
 Generated quiz:
-Question: Why are many young adults in China spending less time on their phones according to the passage?
-True answer: Because they are using the coloring book Secret Garden to relax and reduce stress.
-False answer: Because phone games and apps have become less popular recently.
-False answer: Because Secret Garden teaches them to read faster without using phones.
-False answer: Because their phone usage is restricted by new government regulations.
+Question: Why does Wang Gang have lunch at school at noon?
+True answer: Because his home is far from his school.
+False answer: Because his classes last until late afternoon.
+False answer: Because the school lunches are his favorite.
+False answer: Because students are not allowed to leave campus at noon.
 
 ----------------------------------------------------------------------------------------
 
@@ -1409,11 +1503,13 @@ I replied to him that maybe Santa Claus will bring it to her, and he shouldn't w
 I left the store, feeling as if my life had been changed forever.
 
 Generated quiz:
-Question: Why did the boy want to buy the doll?
-True answer: So his mother could take it to his sister, who had passed away, when she went to be with God.
-False answer: To replace a doll he accidentally broke at home.
-False answer: Because Santa Claus had promised to bring it to him.
-False answer: To donate it to a toy drive for children in need.
+```
+Question: According to the passage, what is one advantage of shopping at a mall?
+True answer: The mall is under one roof, so shoppers don’t get cold or wet from rain, wind, or snow.
+False answer: Malls always offer the lowest prices on everything.
+False answer: Malls are only open on Saturdays when most people shop.
+False answer: Malls sell only clothing, not household items.
+```
 
 ----------------------------------------------------------------------------------------
 
@@ -1425,11 +1521,11 @@ In the West, such as England and the USA, the most important food is potatoes. P
 Some people eat only fruit and vegetables. They do not eat meat or fish or anything else from animals. They eat food only from plants . They say the food from plants is better for us than meat. These people are called _
 
 Generated quiz:
-Question: What term best completes the passage’s final sentence: “These people are called _”?
-True answer: vegetarians
-False answer: pescatarians
-False answer: vegans
-False answer: carnivores
+Question: Why did Love stay on the island after the others left?
+True answer: Because she wanted to offer her help until the last possible moment.
+False answer: Because she did not know the island would go down.
+False answer: Because she had no boat to leave.
+False answer: Because she was waiting for Richness to return.
 
 ----------------------------------------------------------------------------------------
 
@@ -1438,11 +1534,13 @@ Excel row: 76 Test instance: 676
 Today is Sunday, and it is a fine day. The animals in the zoo are having a sports meeting now. Let's go and watch it. Look! Some tigers and horses are running fast. They all want to get the first place .What are elephants and lions doing? Oh ,they are playing soccer. The big elephants and the fast lions! What a funny picture it is! And some pandas are watching the soccer game happily .In the pool, a dolphin and a penguin are swimming. Near the pool, a monkey and a koala are climbing up an apple tree .They are both fast and want to get the apples on the tree. A giraffe is umpiring  the game under the tree. Who do you think can get more apples, the monkey or the koala? What an interesting sports meeting it is!
 
 Generated quiz:
-Question: Which activity is correctly matched with the animals participating in it during the zoo’s sports meeting?
-True answer: Elephants and lions are playing soccer.
-False answer: Pandas and giraffes are swimming in the pool.
-False answer: Monkeys and koalas are running in a race on the track.
-False answer: Tigers and horses are climbing the apple tree.
+```
+Question: According to the passage, why did Time help Love?
+True answer: Because only Time is able to understand how valuable Love is.
+False answer: Because Time had plenty of space in the boat to take Love.
+False answer: Because Love promised to share Richness's gold and silver.
+False answer: Because Happiness asked Time to rescue Love.
+```
 
 ----------------------------------------------------------------------------------------
 
@@ -1463,11 +1561,11 @@ The Music Shop's Sale
 Sale on every record and tape in the shop, Pop, Rock, Jazz, Disco, Folk. Sale starts on Tuesday and ends on Thursday.
 
 Generated quiz:
-Question: If someone is free only on Saturday afternoon, which activity from the passage can they attend?
-True answer: Watch European films at the Museum Theatre.
-False answer: Visit the Picture Show at the City Museum.
-False answer: Attend "The Zoo" concert at Rose Hall.
-False answer: Shop the Music Shop’s sale.
+Question: What is one similarity between holidays in America and Canada, according to the passage?
+True answer: People still get money during their holidays.
+False answer: Many people rest three days a week in both countries.
+False answer: People must take all their holidays at once in both countries.
+False answer: People in both countries work less than 40 hours a week.
 
 ----------------------------------------------------------------------------------------
 
@@ -1478,11 +1576,13 @@ There are many toothbrushes in the shop . They bought a blue one . There is a bl
 A, B, C, D.
 
 Generated quiz:
-Question: Why did Lucy and her mother go shopping on Sunday afternoon?
-True answer: To buy a new toothbrush because her old one broke.
-False answer: To buy a blue bird toy for Lucy.
-False answer: To find a cheaper toothbrush made in Beijing.
-False answer: To purchase school supplies for Class Two, Grade Seven.
+```
+Question: Which items are in the pencil box?
+True answer: The black pen and the blue-and-white eraser.
+False answer: The red ruler and the black pen.
+False answer: The yellow ruler and the blue-and-white eraser.
+False answer: The math book and the red ruler.
+```
 
 ----------------------------------------------------------------------------------------
 
@@ -1502,11 +1602,13 @@ The United States
 American's ancestors came from many countries, so American eating habits differ. Some take time to prepare and eat a hot breakfast. Others take a bagel   while rushing out the door or just _ . For lunch, most Americans eat a sandwich or leftovers. Traditionally, families got together for a large evening meal around 6:00, but now busy schedules force many families to eat in turns. American restaurant servings tend to be huge. But you don't have to finish them; taking leftovers home is common.
 
 Generated quiz:
-Question: Which statement best reflects how mealtime timing has changed or is practiced in Egypt compared to the other countries mentioned?
-True answer: In Egypt, the main meal used to be around 3:00 p.m. but is now eaten around 6:00 p.m. due to longer work hours.
-False answer: In Egypt, people never eat dinner later than 7:00 p.m., unlike the French who eat late.
-False answer: In Egypt, lunch is always the largest meal and is eaten at a fixed time like in France.
-False answer: In Egypt, people commonly snack between meals, similar to Americans.
+```
+Question: According to the passage, what should be the first step when learning English, modeled after how babies learn?
+True answer: Learn to listen first.
+False answer: Learn to talk first.
+False answer: Start by reading English.
+False answer: Begin by memorizing grammar rules.
+```
 
 ----------------------------------------------------------------------------------------
 
@@ -1518,11 +1620,13 @@ When a rich man heard of this, he said to himself, "It is only an orange. Why di
 The next day when the king got the gold cup, he said to the rich man, "What a beautiful cup! I'll give you something for it. Please take the great orange."
 
 Generated quiz:
-Question: Why did the king give the rich man the great orange in return for his gold cup?
-True answer: To reward him, but in an ironic twist, he offered the same orange that had earned the old man money.
-False answer: Because the king disliked gold and refused to accept the cup.
-False answer: Because the rich man begged for the orange instead of money.
-False answer: Because the king had no money left after paying the old man.
+```
+Question: Why was Kevin at the Hillview Restaurant when Penny began choking?
+True answer: Because it was exam week and he had no afternoon classes, so he was working in the kitchen washing up.
+False answer: Because he was eating lunch there with his mother.
+False answer: Because he was on duty at the restaurant as a volunteer firefighter.
+False answer: Because Penny recognized him and called him over to help.
+```
 
 ----------------------------------------------------------------------------------------
 
@@ -1535,11 +1639,13 @@ After nine months'training, the rats were taken to a minefield. They'ran across 
 The rats and the deminers saved thousands of lives, "The rats did this job much better than we expected. So far they have helped to make almost 2,000,000m2 of land safe. They are heroes," said Bart Weeqens, the head of the APOPO.
 
 Generated quiz:
-Question: What was a key reason APOPO chose African rats for detecting landmines?
-True answer: They are light enough to cross minefields without setting off the mines.
-False answer: They can see mines clearly even in the dark.
-False answer: They are immune to explosions and cannot be injured.
-False answer: They can dig up mines faster than deminers can.
+```
+Question: What does Mrs. Black mean when she says she wants "four clean boys" for her birthday?
+True answer: She wants her four sons to be clean instead of dirty.
+False answer: She wants to have four more sons.
+False answer: She wants four boys to come clean the house.
+False answer: She wants her sons to stop playing soccer forever.
+```
 
 ----------------------------------------------------------------------------------------
 
@@ -1555,11 +1661,11 @@ Today is Sunday. Mrs. Black is washing clothes for her sons. Dean comes in and a
 "Oh, that's great! Then I will have another  four brothers! And we can play soccer together," the boy says happily.
 
 Generated quiz:
-Question: Why does Mrs. Black say she wants “four clean boys” for her birthday?
-True answer: Because her sons’ clothes are always dirty from playing soccer and she’s tired of washing them.
-False answer: Because she wants to adopt four more sons to play soccer with Dean.
-False answer: Because she plans to send her sons to school and needs them to look neat.
-False answer: Because she is buying new clothes and wants the boys to try them on.
+Question: According to the passage, why might a visitor get lost in Yucatan, Mexico?
+True answer: Because locals consider it impolite to say "I don't know" and often give an answer even if it's wrong.
+False answer: Because most streets there have no names, so directions rely on landmarks.
+False answer: Because the land is flat with few landmarks, so directions are given by miles and compass points.
+False answer: Because people measure distances by time instead of miles, which confuses visitors.
 
 ----------------------------------------------------------------------------------------
 
@@ -1573,11 +1679,13 @@ Luke won the competition for the job of National Philanthropy  Manager because o
 "I used to work as a part-time worker in a shop.Now I become the National Philanthropy Manager." Luke said, "I think I've helped myself by helping others."
 
 Generated quiz:
-Question: What impact did Luke Cameron’s daily good deeds have on his life, according to the passage?
-True answer: They brought him happiness and gratitude, and led to a new job as National Philanthropy Manager.
-False answer: They made him wealthy enough to stop working entirely.
-False answer: They led him to move abroad to help charities in different countries.
-False answer: They convinced him to stop doing good deeds after 2014.
+```
+Question: According to the passage, why do some people say the world is smaller than before?
+True answer: Because the Internet brings the outside world closer to people's homes.
+False answer: Because modern transportation allows people to travel faster than before.
+False answer: Because television news now covers global events around the clock.
+False answer: Because people read more books about faraway places.
+```
 
 ----------------------------------------------------------------------------------------
 
@@ -1595,11 +1703,13 @@ For years they kept it a secret, but the day did come. He stood with his father 
 "Mother said she was glad she never needed to cut her hair," his father said in a low voice, "and nobody ever thought mother less beautiful, did they?"
 
 Generated quiz:
-Question: Why did the father insist on keeping the ear donor’s identity a secret until many years later?
-True answer: Because the donor—his mother—had agreed to remain unknown so the son wouldn’t feel obliged.
-False answer: Because the donor was a stranger who didn’t want any contact with the family.
-False answer: Because the operation was illegal and revealing the donor could cause trouble.
-False answer: Because the father wanted to surprise his son at the wedding.
+```
+Question: Which of the following is NOT typical of British eating habits mentioned in the passage?
+True answer: Having dumplings with meals.
+False answer: Drinking a lot of tea.
+False answer: Eating meat or fish with potatoes and vegetables for dinner.
+False answer: Having something sweet after dinner.
+```
 
 ----------------------------------------------------------------------------------------
 
@@ -1608,11 +1718,13 @@ Excel row: 85 Test instance: 757
 British food is very different from Chinese food. For example, they eat a lot of potatoes.They like to eat them every day.They eat a lot of bread with butter for breakfast and usually for one other meal. Butter is made from milk.They do not eat much rice.For their dinner they like meat or fish with potatoes and one or two other vegetables.They cook all this together.After dinner they always have something sweet.They do not have dumplings.They drink a lot of tea.They are the biggest tea drinkers in the world.They like Chinese tea, but they usually drink strong black tea from India.
 
 Generated quiz:
-Question: Which statement best describes typical British eating habits mentioned in the passage?
-True answer: They often have meat or fish with potatoes and vegetables for dinner, followed by something sweet, and drink a lot of strong black tea.
-False answer: They usually eat rice with dumplings for dinner and prefer green Chinese tea.
-False answer: They avoid potatoes and mostly eat bread with butter for every meal, ending with soup.
-False answer: They primarily drink coffee and rarely have anything sweet after meals.
+```
+Question: After the plane takes off, what does Jake say about flying?
+True answer: That flying is fun.
+False answer: That flying is scary.
+False answer: That he wants to get off the plane.
+False answer: That he never wants to fly again.
+```
 
 ----------------------------------------------------------------------------------------
 
@@ -1630,11 +1742,13 @@ The plane moves faster and faster. Then-Whoosh! On the ground, cars and houses l
 Jake smiles. "Guess what, Panda?" he says. "Flying is fun!"
 
 Generated quiz:
-Question: What helps Jake feel more comfortable during his first plane trip?
-True answer: Holding his stuffed Panda’s paw.
-False answer: Talking to the taxi driver throughout the flight.
-False answer: Sitting next to his Mum on the plane.
-False answer: Watching movies provided by the airline.
+```
+Question: What did Lewis discover about Karl when he followed him after school?
+True answer: Karl met the new teacher and knew everything about maths, even more than anyone else in the class.
+False answer: Karl was crying in the park because he felt sad about maths.
+False answer: Karl avoided going home to skip his maths homework.
+False answer: Karl was arranging to transfer to another school.
+```
 
 ----------------------------------------------------------------------------------------
 
@@ -1647,11 +1761,11 @@ It was the new teacher!
 They went off, hand in hand. Lewis could hear them talking about maths. And that stupid Karl knew everything about it, and even much more than anyone else in the class!
 
 Generated quiz:
-Question: Why did Karl act confused about maths during class?
-True answer: He was pretending, as he actually knew more than the others and discussed maths confidently with the new teacher after school.
-False answer: He genuinely struggled because he had never learned numbers before transferring.
-False answer: He disliked maths and wanted to disrupt the lessons to make them more fun.
-False answer: He was trying to get extra help from classmates because the teacher ignored him.
+Question: Why does the author call dictionaries "silent teachers"?
+True answer: Because they give you the right answer when you have a question.
+False answer: Because they don't make any noise when you look up words.
+False answer: Because they stay with you forever like a trusted friend.
+False answer: Because they are only used in classrooms.
 
 ----------------------------------------------------------------------------------------
 
@@ -1663,11 +1777,11 @@ It is true that dictionaries are very useful and important to us.They are like s
 Don't be lazy. Don't let your dictionary sleep any more. You will find it is a new world if you walk to it.
 
 Generated quiz:
-Question: What is the author’s main advice to students regarding dictionaries?
-True answer: Actively use your dictionary to learn meanings and proper usage of words instead of letting it “sleep.”
-False answer: Rely mainly on friends and teachers to explain new words.
-False answer: Use a dictionary only to check spelling, not meanings.
-False answer: Avoid dictionaries because they can be confusing and unreliable.
+Question: What dilemma does Celina face after hearing that Joseph plans to buy a sleeping bag with his savings?
+True answer: She doesn't want him to waste his savings, but she fears her friends will be angry if she tells him the truth about the fake trip.
+False answer: She wants to go camping too, but her parents won’t allow her to go.
+False answer: She promised to lend Joseph a sleeping bag, but she doesn’t have one.
+False answer: She thinks the class should plan a real trip, but Joseph refuses to participate.
 
 ----------------------------------------------------------------------------------------
 
@@ -1679,11 +1793,13 @@ At first, Celina thought it was fun. But later, when Joseph told her that he was
 What could she do now?
 
 Generated quiz:
-Question: Why did Celina begin to regret the prank on Joseph?
-True answer: She realized he planned to spend his scarce savings on a sleeping bag for a trip that didn't exist.
-False answer: She learned that Joseph had already been on many camping trips before.
-False answer: She discovered that Joseph had started the prank to get attention.
-False answer: She feared the teachers would punish her for organizing a real camping trip.
+```
+Question: Why does the author believe robots will not rule the earth?
+True answer: Because robots are controlled by people and work according to people's orders.
+False answer: Because robots get bored and tired like humans do.
+False answer: Because robots all look like humans and cannot do other kinds of jobs.
+False answer: Because robots make life less safe and comfortable, so people will stop using them.
+```
 
 ----------------------------------------------------------------------------------------
 
@@ -1695,11 +1811,11 @@ Some people are worried that robots will become the _ of the earth one day. But 
 With the help of robots, we are living a safer, happier and more comfortable life.
 
 Generated quiz:
-Question: According to the passage, why do real robots have many different appearances?
-True answer: Because their appearance depends on the jobs they do.
-False answer: Because they are designed to look like people to be friendly.
-False answer: Because they choose their own shapes as they learn.
-False answer: Because laws require all robots to look different from humans.
+Question: According to the passage, what is the most important factor in achieving success?
+True answer: Depending on yourself; help from others only works if you use it to help yourself.
+False answer: Having access to good schools and strong teachers is the main requirement.
+False answer: Being born into wealth and having helpful relatives is essential.
+False answer: Teachers can turn any student into a worthy person without the student's own effort.
 
 ----------------------------------------------------------------------------------------
 
@@ -1710,11 +1826,13 @@ There have been many great men in history. Many of them were very poor when they
 Some young men don't try their best to make themselves valuable to the human beings. If they see their weak points and change their ways, they can be successful. They are nothing now, and will be nothing as long as  they live, unless they accept the advice of their parents and teachers, and depend on themselves.
 
 Generated quiz:
-Question: According to the passage, what is the main message about achieving success?
-True answer: People must ultimately rely on themselves, using help from others only to help themselves.
-False answer: Success mainly depends on having supportive relatives and friends.
-False answer: The quality of schools is the most important factor in becoming well-known.
-False answer: Teachers can make worthy men of their pupils if the pupils simply follow instructions.
+```
+Question: Based on the clues in the note, what birthday present does Judy receive?
+True answer: A bike
+False answer: A bag
+False answer: A book
+False answer: A kite
+```
 
 ----------------------------------------------------------------------------------------
 
@@ -1725,11 +1843,13 @@ What is it? Do you know?
 . (5)
 
 Generated quiz:
-Question: What birthday present did Judy receive based on the letter clues?
-True answer: A book
-False answer: A bike
-False answer: A game
-False answer: A desk
+```
+Question: According to the passage, which statement about student community service is correct?
+True answer: In the US and Canada, high school students must complete 40 hours before graduation, and in Sichuan, China, high schoolers are required to do 10 days that count toward their grade.
+False answer: US and Canadian high school students must complete 1,400 hours to graduate.
+False answer: Sichuan high school students may do community work only as volunteers; it does not affect their grades.
+False answer: Community service is optional everywhere and is not connected to graduation or school grades.
+```
 
 ----------------------------------------------------------------------------------------
 
@@ -1745,11 +1865,13 @@ Qian Lijun, 16, and her classmates in Suzhou, Jiangsu went to a local elder care
 Li Xiaotian, 15, of Anshan said he used to clear flyers   from telephone poles   with his classmates. They brought tools, towels and buckets and worked for three hours under the summer sun. "It was tiring, but seeing the clean poles without ugly ads -- we really felt proud," he said.
 
 Generated quiz:
-Question: What impact did participating in community work have on the students mentioned in the passage?
-True answer: It helped them develop a sense of responsibility and pride in helping others.
-False answer: It made them decide to focus only on earning money through part-time jobs.
-False answer: It discouraged them from engaging in outdoor activities due to the tiring work.
-False answer: It led them to oppose school policies that require community service.
+```
+Question: A found backpack contains two CDs, three picture books, and an English book. According to the passage, whose backpack is it?
+True answer: Dave
+False answer: Tom
+False answer: Bill
+False answer: None of them
+```
 
 ----------------------------------------------------------------------------------------
 
@@ -1763,11 +1885,13 @@ My mother carefully opened the gifts. Wow! I saw ice skates, red leather gloves 
 Over the last 40 years, Marley and I have grown apart . But the love we felt for each other that day still remains. Today Marley says, "They were the best presents I ever got.
 
 Generated quiz:
-Question: Why did the narrator’s happiness feel doubled on Christmas morning instead of reduced?
-True answer: Because giving Marley the gifts brought the narrator unexpected joy.
-False answer: Because Marley returned all the gifts to the narrator.
-False answer: Because the narrator received even more presents from her own mother afterward.
-False answer: Because Marley’s parents reconciled and hosted a bigger Christmas that day.
+```
+Question: According to Jason, why was the town of Hershey originally built?
+True answer: So factory workers would have a place to live.
+False answer: To attract tourists with a chocolate-themed amusement park.
+False answer: To store cocoa beans from the nearby farm.
+False answer: To serve as the filming location for Charlie and the Chocolate Factory.
+```
 
 ----------------------------------------------------------------------------------------
 
@@ -1777,11 +1901,13 @@ Men Xue and Yang Yue are good friends. They are in the same school. They are in 
 .
 
 Generated quiz:
-Question: Which statement best describes the two girls mentioned in the passage?
-True answer: They are good friends in the same class and grade at the same school.
-False answer: They are cousins who study in different schools.
-False answer: They are classmates, but one is in Grade Six and the other is in Grade Seven.
-False answer: They are neighbors from the same hometown in Shandong.
+```
+Question: Why did the piano player sing in public for the first time?
+True answer: Because the bartender told him to sing to satisfy the customers if he wanted to get paid.
+False answer: Because he was auditioning for a record producer at the bar.
+False answer: Because the piano broke and he had no other choice.
+False answer: Because he had planned to debut as a singer that night.
+```
 
 ----------------------------------------------------------------------------------------
 
@@ -1792,11 +1918,13 @@ Why do so many young people enjoy the kind of Farm game? I think maybe some of t
 Most parents and teachers are worried about these young people and students. Students spend too much time playing the game. It's bad for their health and study.
 
 Generated quiz:
-Question: According to the passage, what is one reason some young people enjoy playing Happy Farm?
-True answer: Some feel lonely and want to make friends while growing vegetables online.
-False answer: They can earn real money to buy seeds and houses in real life.
-False answer: Parents and teachers encourage them to play to improve their studies.
-False answer: They prefer farming online because they already work hard on real farms.
+```
+Question: What is the passage's main point about how parents should educate their children?
+True answer: Parents may use different methods as long as they are legal and consider children's physical and mental well-being, helping children think and act positively.
+False answer: Strict approaches like those of "eagle dads" or "tiger moms" are the only paths to success.
+False answer: Parents should concentrate on discovering one best way to teach children in today's fast-changing times.
+False answer: To build strength, children—especially weak ones—should be made to endure extreme conditions like running in snow.
+```
 
 ----------------------------------------------------------------------------------------
 
@@ -1808,11 +1936,11 @@ Thousands of people from all over the world are coming to the expo every day. An
 However, Zhao said, "The expo garden is now so crowded. If you want to visit it, you'd better go there during the summer vacation."
 
 Generated quiz:
-Question: What is the main theme of the Shanghai World Expo described in the passage?
-True answer: "Better City, Better Life."
-False answer: "Technology Shapes the Future."
-False answer: "One World, One Dream."
-False answer: "Harmony Between Man and Nature."
+Question: According to the passage, what led to the "crazy buying of salt" in China in 2011?
+True answer: A rumor spread on microblogs that salt could help people fight radiation.
+False answer: The government advised citizens to stockpile salt after the disaster.
+False answer: Verified news reported that China’s salt supply had been destroyed.
+False answer: Doctors recommended salt as a treatment for illnesses after the tsunami.
 
 ----------------------------------------------------------------------------------------
 
@@ -1822,11 +1950,11 @@ The crow  is an ordinary  bird. It is about twenty inches  long and black all ov
 Crows are much noisier than other birds. Very often a large number of crows will get together on one house and talk. Sometimes they talk together, and sometimes they do it by turns like human beings . It is easy to tell from  crows' sounds whether they are pleased or angry. Perhaps crows talk a lot because they are friendly birds. A pair of crows will live together all their lives, and if one of them dies, the other one becomes very sad and quiet for the rest of its life and sometimes it dies, too.
 
 Generated quiz:
-Question: According to the passage, why are crows considered useful to people?
-True answer: Because they eat waste and clean up dirty things in the streets.
-False answer: Because they sing beautifully and calm neighborhoods.
-False answer: Because they help other birds build nests.
-False answer: Because they deliver messages between houses.
+Question: Why did many fans continue to support Kai Ko after his apology?
+True answer: Because his clean, youthful image had earned their trust, so they hoped he would improve.
+False answer: Because he denied taking drugs and said the reports were false.
+False answer: Because the entertainment industry publicly pledged to keep working with him.
+False answer: Because he announced he would quit acting to reflect on his mistake.
 
 ----------------------------------------------------------------------------------------
 
@@ -1838,11 +1966,11 @@ However, there were other voices. Wang Zhuo, a user of Sina Weibo said, " It doe
 When asked what his plans are after he regained freedom, Ko said he would continue to cooperate with the police on further investigations   after returning to Taiwan.
 
 Generated quiz:
-Question: What was the main purpose of Kai Ko's press conference?
-True answer: To apologize for taking drugs and express his intention to correct his mistake.
-False answer: To announce his retirement from the entertainment industry.
-False answer: To promote a new film following his detention.
-False answer: To deny the allegations and blame the media.
+Question: What common problem do the women describe about getting older?
+True answer: They often forget what they are doing.
+False answer: They have trouble hearing knocks at the door.
+False answer: They can't climb stairs because their legs are weak.
+False answer: They dislike cooking and refuse to make bread.
 
 ----------------------------------------------------------------------------------------
 
@@ -1855,11 +1983,11 @@ Since this is the first such study in children, scientists are quick to point ou
 Smaller groups would allow for a quiet and more relaxing environment-a perfect chance to teach children about food, manners and how to know when they feel full. "This would have an effect on kids' eating," adds Klauer. "They would slow down and eat less."
 
 Generated quiz:
-Question: What practical recommendation does Dr. Jana Klauer make based on the study’s findings?
-True answer: Keep snack groups small or use small tables to help children slow down and eat less.
-False answer: Increase snack variety so children focus on trying new foods instead of quantity.
-False answer: Schedule snacks right before meals to reduce overall daily intake.
-False answer: Encourage children to compete during snack time to finish faster and eat less.
+Question: What key lesson did the teacher want the students to learn from his demonstration with the $100 bill?
+True answer: A person’s worth does not decrease because of hardships; your value comes from who you are.
+False answer: Your value comes from what you do or whom you know.
+False answer: The main point was that money keeps its value even when it gets dirty.
+False answer: You should always act quickly to grab opportunities.
 
 ----------------------------------------------------------------------------------------
 
