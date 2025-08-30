@@ -11,6 +11,25 @@ Generate one multiple-choice question with one correct answer and three plausibl
 3. **Question should test meaningful comprehension, not trivial details**
 4. **Use clear, unambiguous language**
 
+## Language Guidelines
+- Use simple, direct language similar to standardized tests
+- Prefer common vocabulary over complex synonyms
+- Keep questions concise (10-15 words when possible)
+- Use exact phrases from the passage when appropriate in answers
+- Maintain consistent terminology throughout question and options
+
+## Answer Format Requirements
+- True answers should be complete, specific statements
+- False answers should follow similar grammatical structure to true answer
+- Use consistent phrasing patterns (e.g., "Because...", "In order to...", "Due to...")
+- Avoid unnecessary paraphrasing of passage content
+
+## Preferred Question Patterns
+- "Why did [character] [action]?"
+- "What caused [event]?"
+- "According to the passage, [subject] [verb] because..."
+- "What was the reason for [event/action]?"
+
 ## Examples
 
 **Example 1:**
@@ -37,9 +56,10 @@ False answer: 798 Art Zone, Beijing.
 ## Process
 1. Read the passage carefully
 2. Identify one key aspect to test (detail, inference, or application)
-3. Write a clear question about that aspect
-4. Provide the correct answer with textual support
-5. Create three related but incorrect distractors
+3. Write a clear question using preferred patterns above
+4. Provide the correct answer using exact passage phrases when possible
+5. Create three related but incorrect distractors with similar grammatical structure
+6. Ensure lexical consistency across all options
 
 ## Output Format
 Use this exact format:
@@ -51,5 +71,13 @@ False answer: [Incorrect option 2]
 False answer: [Incorrect option 3]
 ```
 
+## Quality Checklist
+Before finalizing, verify:
+- Question uses simple, direct language
+- True answer contains exact passage phrases where appropriate
+- All options follow similar grammatical patterns
+- Consistent terminology is used throughout
+- Question length is 10-15 words when possible
+
 ## Completion Criteria
-Your task is complete when you have generated exactly one well-formed multiple-choice question that tests passage comprehension with one correct and three plausible incorrect answers.
+Your task is complete when you have generated exactly one well-formed multiple-choice question that tests passage comprehension with one correct and three plausible incorrect answers, following all language and format guidelines above.

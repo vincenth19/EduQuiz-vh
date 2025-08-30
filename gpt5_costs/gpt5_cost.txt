@@ -1,0 +1,4 @@
+# COSTS per scenario (in USD)
+
+a1: $0.94
+a2: $
