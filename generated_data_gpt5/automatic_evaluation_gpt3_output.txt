@@ -1,3 +1,22 @@
+// a1 standard
+BLEU: 11.97
+ROUGE-L: 23.2
+METEOR: 23.83
+BERTScore-F1: 86.25
+
+// a2 reasoning
+BLEU: 18.24
+ROUGE-L: 29.67
+METEOR: 22.82
+BERTScore-F1: 88.97
+
+// a3 standard with + function call (rouge-l eval tool), 150 rows
+BLEU: 15.12
+ROUGE-L: 24.18
+METEOR: 17.54
+BERTScore-F1: 86.64
+
+//gpt3 fine-tuned
 BLEU: 24.57
 ROUGE-L: 36.16
 METEOR: 23.83
