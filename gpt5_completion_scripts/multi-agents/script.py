@@ -1,7 +1,7 @@
 import asyncio
 import json
 import os
-from rouge_score import rouge_scorer
+import evaluate
 from agents import Agent, Runner, function_tool
 import openai
 from dotenv import load_dotenv
@@ -45,21 +45,31 @@ def load_original_quizzes(sample_size=150, random_seed=42):
         print(f"Using all {len(all_data)} quizzes")
         return all_data
 
-# Load original quizzes once at startup
-ORIGINAL_QUIZZES = load_original_quizzes()
+# Load original quizzes once at startup - Full 150 rows
+ORIGINAL_QUIZZES = load_original_quizzes(sample_size=150, random_seed=42)
 
 @function_tool
 def evaluate_quiz_quality(generated_quiz: str, quiz_index: int) -> str:
-    """Evaluate quiz quality using ROUGE-L score against reference quiz."""
+    """Evaluate quiz quality using ROUGE-L score against reference quiz (same as evaluation notebook)."""
     if quiz_index >= len(ORIGINAL_QUIZZES):
         return "Error: Quiz index out of range"
     
     reference_quiz = ORIGINAL_QUIZZES[quiz_index]['quiz']
     
-    # Calculate ROUGE-L score (fast evaluation)
-    scorer = rouge_scorer.RougeScorer(['rougeL'], use_stemmer=True)
-    rouge_score = scorer.score(reference_quiz, generated_quiz)
-    rouge_l_score = rouge_score['rougeL'].fmeasure * 100
+    print(f"[DEBUG] Evaluating quiz {quiz_index + 1}")
+    print(f"[DEBUG] Reference: {reference_quiz[:100]}...")
+    print(f"[DEBUG] Generated: {generated_quiz[:100]}...")
+    
+    # Use same evaluation method as notebook
+    rouge = evaluate.load('rouge')
+    
+    # Format for evaluate library (needs lists)
+    predictions = [generated_quiz.replace("\n", " ").strip()]
+    references = [[reference_quiz.replace("\n", " ").strip()]]
+    
+    rouge.add_batch(predictions=predictions, references=references)
+    rouge_results = rouge.compute()
+    rouge_l_score = rouge_results['rougeL'] * 100
     
     # Calculate basic metrics
     length_ratio = len(generated_quiz) / len(reference_quiz) if len(reference_quiz) > 0 else 0
@@ -67,6 +77,8 @@ def evaluate_quiz_quality(generated_quiz: str, quiz_index: int) -> str:
     
     # Generate feedback
     feedback = f"ROUGE-L Score: {rouge_l_score:.2f}/100\n"
+    
+    print(f"[DEBUG] ROUGE-L Score: {rouge_l_score:.2f}")
     
     if rouge_l_score < 25:
         feedback += "NEEDS IMPROVEMENT: Low lexical overlap with reference. "
@@ -84,6 +96,7 @@ def evaluate_quiz_quality(generated_quiz: str, quiz_index: int) -> str:
     
     feedback += f" Word overlap: {word_overlap} words."
     
+    print(f"[DEBUG] Feedback: {feedback}")
     return feedback
 
 @function_tool
@@ -249,23 +262,27 @@ async def generate_quiz_with_refinement(quiz_index: int):
 
 {prompt}
 
-IMPORTANT: After generating your initial quiz, you MUST:
-1. Call evaluate_quiz_quality(generated_quiz, {quiz_index}) to get your ROUGE-L score
-2. Call check_quiz_format(generated_quiz) to verify format
-3. If ROUGE-L < 30 OR format errors exist, call suggest_improvements() and refine your quiz
-4. Re-evaluate after refinement (maximum 2 refinement rounds)
+PROCESS (3 turns max):
+1. Generate your initial quiz
+2. Call evaluate_quiz_quality(generated_quiz, {quiz_index}) to get ROUGE-L score
+3. If ROUGE-L < 30, refine the quiz based on feedback (no additional tools needed)
+
+Be efficient - focus on the most impactful improvements.
 
 Follow the format and style guidelines in your instructions."""
     
     print(f"Generating quiz {quiz_index + 1}/{len(ORIGINAL_QUIZZES)}...")
     
-    # Run the agent with turn limit handling
+    # Run the agent with simplified turn limit
     try:
+        print(f"[DEBUG] Starting agent with max 3 turns...")
         result = await Runner.run(
             quiz_agent, 
             input=user_prompt,
-            max_turns=8  # Increased to allow more refinement rounds
+            max_turns=3  # Cost-effective: 1 generation + 1 evaluation + 1 refinement (if needed)
         )
+        print(f"[DEBUG] Agent completed successfully")
+        print(f"[DEBUG] Final output: {result.final_output[:200]}...")
         return result.final_output
     except Exception as e:
         print(f"  Exception for quiz {quiz_index + 1}: {str(e)[:100]}...")
@@ -315,8 +332,8 @@ async def main():
             output_data[quiz_id] = result['generated_quiz']
             successful_count += 1
     
-    # Save to generated_data_gpt5 directory
-    output_path = "../../generated_data_gpt5/a3-1.json"
+    # Save to generated_data_gpt5 directory - Full batch with 3 turns
+    output_path = "../../generated_data_gpt5/a3-3turns.json"
     os.makedirs(os.path.dirname(output_path), exist_ok=True)
     
     with open(output_path, 'w') as f:
