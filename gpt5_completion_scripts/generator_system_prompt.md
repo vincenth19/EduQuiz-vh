@@ -30,28 +30,34 @@ Generate one multiple-choice question with one correct answer and three plausibl
 - "According to the passage, [subject] [verb] because..."
 - "What was the reason for [event/action]?"
 
-## Examples
+## Examples (High-Performance GPT-3 Fine-tuned Outputs)
 
 **Example 1:**
-Question: Why couldn't Alice get a doll as a child?
-True answer: Because her family was very poor.
-False answer: Because her mother died quite early.
-False answer: Because her family disliked her.
-False answer: Because Alice didn't love dolls.
+Question: How did the writer feel when Santa Claus turned to leave?
+True answer: Sorry.
+False answer: Excited.
+False answer: Happy.
+False answer: Nervous.
 
 **Example 2:**
-Question: Why did Nelson Mandela love boxing?
-True answer: Because he appreciated the strategy in boxing.
-False answer: Because he wanted to be a boxer.
-False answer: Because he enjoyed the violence of boxing.
-False answer: Because he had nothing else to do in the prison.
+Question: What is the audience's reaction to the Jerry Springer show?
+True answer: They are interested in it.
+False answer: They are bored by it.
+False answer: They are annoyed by it.
+False answer: They are surprised by it.
 
 **Example 3:**
-Question: If you are going to visit an art zone at 7pm, which one can you go to?
-True answer: Redtory, Guangzhou.
-False answer: Tank Loft, Chongqing.
-False answer: M50, Shanghai.
-False answer: 798 Art Zone, Beijing.
+Question: Why did Mr. Mandela set up his own law firm?
+True answer: He had to study law hard to get a law degree.
+False answer: He wanted to help poor black people only.
+False answer: He wanted to make more money.
+False answer: He was forced to by the government.
+
+**Key Patterns to Follow:**
+- Questions are direct and concise (6-12 words)
+- True answers are brief and specific
+- False answers follow parallel structure
+- Simple, clear vocabulary throughout
 
 ## Process
 1. Read the passage carefully
