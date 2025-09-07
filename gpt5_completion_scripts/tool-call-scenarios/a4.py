@@ -2,7 +2,8 @@ import asyncio
 import json
 import os
 import evaluate
-from agents import Agent, Runner, function_tool
+from agents import Agent, Runner, function_tool, ModelSettings
+from openai.types.shared import Reasoning
 import openai
 from dotenv import load_dotenv
 
@@ -25,7 +26,7 @@ if not openai.api_key:
     raise ValueError("OPENAI_API_KEY environment variable not set. Please create a .env file with OPENAI_API_KEY=your-key")
 
 # Load original quizzes for comparison
-def load_original_quizzes(sample_size=150, random_seed=42):
+def load_original_quizzes(sample_size=100, random_seed=42):
     """Load original quizzes from processed test data with optional random sampling"""
     import random
     
@@ -255,12 +256,15 @@ def extract_latest_quiz_from_result(result):
     except:
         return None
 
-# Quiz Generator Agent - use cached system prompt
+# Quiz Generator Agent - use cached system prompt with reasoning mode
 quiz_agent = Agent(
     name="QuizGenerator",
     instructions=get_system_prompt(),
     tools=[evaluate_quiz_quality, check_quiz_format, suggest_improvements],
-    model="gpt-5-2025-08-07"
+    model="gpt-5-2025-08-07",
+    model_settings=ModelSettings(
+        reasoning=Reasoning(effort="medium"),
+    )
 )
 
 async def generate_quiz_with_refinement(quiz_index: int):
@@ -320,7 +324,10 @@ Follow the format and style guidelines in your instructions."""
             fallback_agent = Agent(
                 name="FallbackGenerator", 
                 instructions=get_system_prompt().split("## EVALUATION TOOLS AVAILABLE")[0],  # Use base prompt only
-                model="gpt-5-2025-08-07"
+                model="gpt-5-2025-08-07",
+                model_settings=ModelSettings(
+                    reasoning=Reasoning(effort="medium"),
+                )
             )
             
             fallback_result = await Runner.run(fallback_agent, input=simple_prompt, max_turns=1)
@@ -348,7 +355,7 @@ async def main():
             successful_count += 1
     
     # Save to generated_data_gpt5 directory - Full batch with 3 turns
-    output_path = "../../generated_data_gpt5/a3-3turns.json"
+    output_path = "../../generated_data_gpt5/a4.json"
     os.makedirs(os.path.dirname(output_path), exist_ok=True)
     
     with open(output_path, 'w') as f:
