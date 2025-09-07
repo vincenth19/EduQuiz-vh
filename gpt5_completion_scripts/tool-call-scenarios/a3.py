@@ -286,32 +286,22 @@ Follow the format and style guidelines in your instructions."""
         return result.final_output
     except Exception as e:
         print(f"  Exception for quiz {quiz_index + 1}: {str(e)[:100]}...")
+        print(f"  Using simple fallback generation...")
         
-        # If any error occurs, generate a fallback quiz without evaluation tools
+        # Simple fallback - generate without evaluation tools
         try:
-            fallback_prompt = f"""Generate a simple multiple-choice quiz question based on this passage (NO EVALUATION TOOLS):
-
-{prompt}
-
-Use this exact format:
-Question: [Your question here]
-True answer: [Correct answer]
-False answer: [Incorrect option 1]
-False answer: [Incorrect option 2]
-False answer: [Incorrect option 3]"""
+            simple_prompt = f"Generate a multiple-choice quiz for this passage:\n\n{prompt}\n\nUse the exact format from your instructions."
             
-            fallback_result = await Runner.run(
-                Agent(
-                    name="SimpleFallbackGenerator",
-                    instructions="Generate a simple quiz question without using any tools. Follow the exact format specified.",
-                    model="gpt-4o"
-                ),
-                input=fallback_prompt,
-                max_turns=2
+            fallback_agent = Agent(
+                name="FallbackGenerator", 
+                instructions=load_system_prompt().split("## EVALUATION TOOLS AVAILABLE")[0],  # Use base prompt only
+                model="gpt-5-2025-08-07"
             )
-            return fallback_result.final_output
+            
+            result = await Runner.run(fallback_agent, input=simple_prompt, max_turns=1)
+            return result.final_output
         except:
-            # Final fallback with a generic quiz
+            # Final fallback
             return f"Question: What is mentioned in the passage?\nTrue answer: Information from the text.\nFalse answer: Unrelated information.\nFalse answer: Different topic.\nFalse answer: Incorrect details."
 
 async def main():

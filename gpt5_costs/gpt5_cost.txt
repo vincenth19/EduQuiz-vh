@@ -1,4 +1,5 @@
 # COSTS per scenario (in USD)
 
 a1: $0.94
-a2: $
+a2: $20.41
+a3: $7.65
