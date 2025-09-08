@@ -1,0 +1,812 @@
+{
+  "statistics": {
+    "total_questions": 100,
+    "correct_answers": 20,
+    "wrong_answers": 80,
+    "accuracy_percentage": 20.0,
+    "grading_time_seconds": 0.0002,
+    "questions_per_second": 469686.9
+  },
+  "detailed_results": [
+    {
+      "id": "1",
+      "question": "Why does Wang Gang have lunch at school?",
+      "correct_answer": "D",
+      "selected_answer": "A",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "2",
+      "question": "What did teacher requirements never go beyond in the so-called schools?",
+      "correct_answer": "C",
+      "selected_answer": "A",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "3",
+      "question": "According to the passage, what does the Statue of Liberty price include?",
+      "correct_answer": "B",
+      "selected_answer": "C",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "4",
+      "question": "Why did the doctors at the medical school dislike Adams?",
+      "correct_answer": "C",
+      "selected_answer": "B",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "5",
+      "question": "According to the passage, how can you renew spatial orientation and navigation?",
+      "correct_answer": "D",
+      "selected_answer": "B",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "6",
+      "question": "Why are Youth Exchanges \"a wonderful intercultural experience\"?",
+      "correct_answer": "C",
+      "selected_answer": "B",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "7",
+      "question": "According to the passage, Mo Yan won the Nobel Prize because...",
+      "correct_answer": "C",
+      "selected_answer": "A",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "8",
+      "question": "According to the passage, why does mountain living protect the heart?",
+      "correct_answer": "A",
+      "selected_answer": "A",
+      "is_correct": true,
+      "score": 1
+    },
+    {
+      "id": "9",
+      "question": "According to the passage, what tea do the British usually drink?",
+      "correct_answer": "B",
+      "selected_answer": "D",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "10",
+      "question": "Why must children under 3 be registered?",
+      "correct_answer": "A",
+      "selected_answer": "A",
+      "is_correct": true,
+      "score": 1
+    },
+    {
+      "id": "11",
+      "question": "Why did Lucy and her mother go shopping on Sunday?",
+      "correct_answer": "A",
+      "selected_answer": "A",
+      "is_correct": true,
+      "score": 1
+    },
+    {
+      "id": "12",
+      "question": "Why did the doctors at the medical school dislike Adams?",
+      "correct_answer": "C",
+      "selected_answer": "A",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "13",
+      "question": "According to the passage, why did Victory give the money away?",
+      "correct_answer": "C",
+      "selected_answer": "B",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "14",
+      "question": "According to the passage, what contributes to London's status as a major global city?",
+      "correct_answer": "D",
+      "selected_answer": "B",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "15",
+      "question": "Why do people want to do business with successful people?",
+      "correct_answer": "B",
+      "selected_answer": "A",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "16",
+      "question": "Why did Joe go to town to look for a job?",
+      "correct_answer": "A",
+      "selected_answer": "B",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "17",
+      "question": "Why do some men avoid check-ups, according to the passage?",
+      "correct_answer": "B",
+      "selected_answer": "D",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "18",
+      "question": "According to the passage, why choose a cold room at the Ice Hotel?",
+      "correct_answer": "D",
+      "selected_answer": "B",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "19",
+      "question": "According to the passage, why might Tiger-style parenting do more harm than good?",
+      "correct_answer": "C",
+      "selected_answer": "D",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "20",
+      "question": "What did China recently require Chinese computer makers to do?",
+      "correct_answer": "C",
+      "selected_answer": "C",
+      "is_correct": true,
+      "score": 1
+    },
+    {
+      "id": "21",
+      "question": "Why should travelers check for volcano alerts before making reservations?",
+      "correct_answer": "D",
+      "selected_answer": "A",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "22",
+      "question": "Why did York decide to pose as a doctor in hospitals?",
+      "correct_answer": "B",
+      "selected_answer": "B",
+      "is_correct": true,
+      "score": 1
+    },
+    {
+      "id": "23",
+      "question": "What will most consumers do as the economy improves?",
+      "correct_answer": "B",
+      "selected_answer": "D",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "24",
+      "question": "Why does Jack think he can be in the music club?",
+      "correct_answer": "B",
+      "selected_answer": "C",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "25",
+      "question": "What will the company do about the faulty air conditioner?",
+      "correct_answer": "D",
+      "selected_answer": "C",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "26",
+      "question": "According to the passage, what do children need to do to stay healthy?",
+      "correct_answer": "C",
+      "selected_answer": "B",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "27",
+      "question": "Why did Lang Lang's father quit his job and move to Beijing?",
+      "correct_answer": "B",
+      "selected_answer": "B",
+      "is_correct": true,
+      "score": 1
+    },
+    {
+      "id": "28",
+      "question": "How much does it cost for the whole day?",
+      "correct_answer": "D",
+      "selected_answer": "C",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "29",
+      "question": "According to the passage, Japanese eat lots of fish because...",
+      "correct_answer": "D",
+      "selected_answer": "A",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "30",
+      "question": "Why did Penny save Kevin at the baseball game?",
+      "correct_answer": "D",
+      "selected_answer": "A",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "31",
+      "question": "According to the passage, why do people say \"once in a blue moon\"?",
+      "correct_answer": "A",
+      "selected_answer": "D",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "32",
+      "question": "Why did the writer move to Los Angeles after graduating college?",
+      "correct_answer": "A",
+      "selected_answer": "A",
+      "is_correct": true,
+      "score": 1
+    },
+    {
+      "id": "33",
+      "question": "According to the passage, what should you check before booking your trip?",
+      "correct_answer": "B",
+      "selected_answer": "C",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "34",
+      "question": "According to the passage, what is the first step in learning English?",
+      "correct_answer": "A",
+      "selected_answer": "C",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "35",
+      "question": "According to the passage, why did Joe go to the office?",
+      "correct_answer": "A",
+      "selected_answer": "C",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "36",
+      "question": "What limits how fast or how high roller coasters can go?",
+      "correct_answer": "D",
+      "selected_answer": "A",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "37",
+      "question": "According to the passage, what caused Li Ruyan to stop jaywalking?",
+      "correct_answer": "D",
+      "selected_answer": "D",
+      "is_correct": true,
+      "score": 1
+    },
+    {
+      "id": "38",
+      "question": "What is the main goal of these green changes?",
+      "correct_answer": "B",
+      "selected_answer": "A",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "39",
+      "question": "Why did a teacher give Rolihlahla the English name \"Nelson\"?",
+      "correct_answer": "D",
+      "selected_answer": "D",
+      "is_correct": true,
+      "score": 1
+    },
+    {
+      "id": "40",
+      "question": "According to the passage, \"Tea\" means two things. What are they?",
+      "correct_answer": "C",
+      "selected_answer": "A",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "41",
+      "question": "According to the passage, Canal Street is famous for what?",
+      "correct_answer": "C",
+      "selected_answer": "C",
+      "is_correct": true,
+      "score": 1
+    },
+    {
+      "id": "42",
+      "question": "Why is the Big-bowl-tea offer called \"tempting\"?",
+      "correct_answer": "A",
+      "selected_answer": "C",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "43",
+      "question": "What did the king give the rich man for the gold cup?",
+      "correct_answer": "B",
+      "selected_answer": "B",
+      "is_correct": true,
+      "score": 1
+    },
+    {
+      "id": "44",
+      "question": "Why did Jim decide to start a new life?",
+      "correct_answer": "C",
+      "selected_answer": "A",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "45",
+      "question": "According to the passage, why did Nigel befriend Alicia, from a neighboring school?",
+      "correct_answer": "C",
+      "selected_answer": "A",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "46",
+      "question": "Why did the group decide to build a new house?",
+      "correct_answer": "D",
+      "selected_answer": "B",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "47",
+      "question": "Why will the F.D.A. not require labels for cloned animal products?",
+      "correct_answer": "A",
+      "selected_answer": "C",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "48",
+      "question": "Why did Brittany take the legs off and walk on her knees?",
+      "correct_answer": "B",
+      "selected_answer": "A",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "49",
+      "question": "Why does Tom go to the old people's home on weekends?",
+      "correct_answer": "D",
+      "selected_answer": "B",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "50",
+      "question": "According to the passage, what did Rob do to slow the spread of the venom?",
+      "correct_answer": "C",
+      "selected_answer": "A",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "51",
+      "question": "What did people ask after Dan put up the clock?",
+      "correct_answer": "C",
+      "selected_answer": "D",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "52",
+      "question": "According to the passage, Hu sought to reassure Gates that...",
+      "correct_answer": "B",
+      "selected_answer": "C",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "53",
+      "question": "When a waiter asks \"And what's your drink?\", what should you say?",
+      "correct_answer": "B",
+      "selected_answer": "D",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "54",
+      "question": "According to the passage, why do many college students drink today?",
+      "correct_answer": "D",
+      "selected_answer": "C",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "55",
+      "question": "Why did the surfers leave the country after the struggle?",
+      "correct_answer": "D",
+      "selected_answer": "B",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "56",
+      "question": "According to Mo, their selection's sole standard is what?",
+      "correct_answer": "D",
+      "selected_answer": "C",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "57",
+      "question": "Why did Jack hear screams in the park?",
+      "correct_answer": "A",
+      "selected_answer": "C",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "58",
+      "question": "According to the passage, parents feel worried because...",
+      "correct_answer": "B",
+      "selected_answer": "B",
+      "is_correct": true,
+      "score": 1
+    },
+    {
+      "id": "59",
+      "question": "According to the passage, which magazine often carries articles on how technology changes people's lives?",
+      "correct_answer": "B",
+      "selected_answer": "C",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "60",
+      "question": "Why can't late Japanese students enter school according to the passage?",
+      "correct_answer": "A",
+      "selected_answer": "A",
+      "is_correct": true,
+      "score": 1
+    },
+    {
+      "id": "61",
+      "question": "Why did the MTV channel offer Edell a TV hostess job?",
+      "correct_answer": "A",
+      "selected_answer": "B",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "62",
+      "question": "Who donated the ears he needed?",
+      "correct_answer": "C",
+      "selected_answer": "B",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "63",
+      "question": "According to the passage, people loved to talk with Xiaoice because...",
+      "correct_answer": "C",
+      "selected_answer": "B",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "64",
+      "question": "Why can recognizing the locations of distant sounds be life-or-death for blind people?",
+      "correct_answer": "C",
+      "selected_answer": "D",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "65",
+      "question": "Why did the man run after the narrator?",
+      "correct_answer": "B",
+      "selected_answer": "D",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "66",
+      "question": "According to the passage, why should you take risks?",
+      "correct_answer": "D",
+      "selected_answer": "C",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "67",
+      "question": "Why did Everett want to clean up the litter and repair the fence?",
+      "correct_answer": "C",
+      "selected_answer": "B",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "68",
+      "question": "According to the passage, why should cyclists wear bright colors?",
+      "correct_answer": "B",
+      "selected_answer": "C",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "69",
+      "question": "Why are the digesters being given \"a new diet\" of food scraps?",
+      "correct_answer": "B",
+      "selected_answer": "A",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "70",
+      "question": "Why was climbing up to their hotel so tiring for them?",
+      "correct_answer": "D",
+      "selected_answer": "B",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "71",
+      "question": "Why were my family people having mooncakes at my friend's home?",
+      "correct_answer": "C",
+      "selected_answer": "A",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "72",
+      "question": "Why did Ken ride so fast?",
+      "correct_answer": "A",
+      "selected_answer": "C",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "73",
+      "question": "Why did the man fail to get the Microsoft job?",
+      "correct_answer": "A",
+      "selected_answer": "D",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "74",
+      "question": "According to the passage, the money from selling the paper goes towards...",
+      "correct_answer": "B",
+      "selected_answer": "C",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "75",
+      "question": "According to the passage, what caused Juac to receive his teaching opportunity?",
+      "correct_answer": "D",
+      "selected_answer": "A",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "76",
+      "question": "How did the rats signal a mine to the deminers?",
+      "correct_answer": "D",
+      "selected_answer": "B",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "77",
+      "question": "For 3 Days shipping, what must be added?",
+      "correct_answer": "C",
+      "selected_answer": "C",
+      "is_correct": true,
+      "score": 1
+    },
+    {
+      "id": "78",
+      "question": "According to the passage, advertisements are displayed for how long?",
+      "correct_answer": "D",
+      "selected_answer": "B",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "79",
+      "question": "What's the one thing Dollar can't travel without?",
+      "correct_answer": "C",
+      "selected_answer": "D",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "80",
+      "question": "What does Yang put on his QQ blog?",
+      "correct_answer": "B",
+      "selected_answer": "D",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "81",
+      "question": "According to the passage, why did the boy want the doll?",
+      "correct_answer": "B",
+      "selected_answer": "D",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "82",
+      "question": "Why did Kenneth die the next morning?",
+      "correct_answer": "B",
+      "selected_answer": "B",
+      "is_correct": true,
+      "score": 1
+    },
+    {
+      "id": "83",
+      "question": "According to the passage, what is happening to the old school?",
+      "correct_answer": "D",
+      "selected_answer": "C",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "84",
+      "question": "How much is the pay each hour?",
+      "correct_answer": "B",
+      "selected_answer": "B",
+      "is_correct": true,
+      "score": 1
+    },
+    {
+      "id": "85",
+      "question": "What time does the cruise depart?",
+      "correct_answer": "C",
+      "selected_answer": "B",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "86",
+      "question": "Why should children eat more vegetables and fruit, according to the passage?",
+      "correct_answer": "B",
+      "selected_answer": "C",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "87",
+      "question": "Why did Fort McMurray residents have to leave their homes?",
+      "correct_answer": "D",
+      "selected_answer": "D",
+      "is_correct": true,
+      "score": 1
+    },
+    {
+      "id": "88",
+      "question": "According to the passage, why do birds add smoked filter stuff?",
+      "correct_answer": "C",
+      "selected_answer": "D",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "89",
+      "question": "Why did many young adults begin to paint as a hobby?",
+      "correct_answer": "C",
+      "selected_answer": "C",
+      "is_correct": true,
+      "score": 1
+    },
+    {
+      "id": "90",
+      "question": "According to the passage, some young people enjoy Happy Farm because...",
+      "correct_answer": "A",
+      "selected_answer": "B",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "91",
+      "question": "According to the passage, what decided the matter about using the atomic bomb?",
+      "correct_answer": "B",
+      "selected_answer": "B",
+      "is_correct": true,
+      "score": 1
+    },
+    {
+      "id": "92",
+      "question": "According to the passage, why are many girls not in school?",
+      "correct_answer": "D",
+      "selected_answer": "D",
+      "is_correct": true,
+      "score": 1
+    },
+    {
+      "id": "93",
+      "question": "What caused the baby turtles to head toward the dunes?",
+      "correct_answer": "D",
+      "selected_answer": "A",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "94",
+      "question": "What caused the bus to become a happy place?",
+      "correct_answer": "C",
+      "selected_answer": "A",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "95",
+      "question": "According to Jim Steyer, why are kids reading less?",
+      "correct_answer": "B",
+      "selected_answer": "A",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "96",
+      "question": "Why did the son hang up the phone?",
+      "correct_answer": "C",
+      "selected_answer": "B",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "97",
+      "question": "What caused the expected growth in electric bike production?",
+      "correct_answer": "D",
+      "selected_answer": "B",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "98",
+      "question": "According to the passage, why does Amy live in Nanjing?",
+      "correct_answer": "C",
+      "selected_answer": "D",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "99",
+      "question": "Why did nineteen men hold the strong and slippery dolphin?",
+      "correct_answer": "B",
+      "selected_answer": "A",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "100",
+      "question": "According to the passage, what is very important to the shopper?",
+      "correct_answer": "A",
+      "selected_answer": "D",
+      "is_correct": false,
+      "score": 0
+    }
+  ]
+}

@@ -1,0 +1,812 @@
+{
+  "statistics": {
+    "total_questions": 100,
+    "correct_answers": 20,
+    "wrong_answers": 80,
+    "accuracy_percentage": 20.0,
+    "grading_time_seconds": 0.0001,
+    "questions_per_second": 1136667.75
+  },
+  "detailed_results": [
+    {
+      "id": "A1_1",
+      "question": "Why does Wang Gang eat lunch at school?",
+      "correct_answer": "D",
+      "selected_answer": "A",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "A1_2",
+      "question": "Why was there little desire for education in the area?",
+      "correct_answer": "C",
+      "selected_answer": "A",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "A1_3",
+      "question": "Why is the 9/11 Memorial significant according to the passage?",
+      "correct_answer": "B",
+      "selected_answer": "C",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "A1_4",
+      "question": "Why did the medical school doctors dislike Adams?",
+      "correct_answer": "C",
+      "selected_answer": "B",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "A1_5",
+      "question": "Why should we memorize some phone numbers?",
+      "correct_answer": "D",
+      "selected_answer": "B",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "A1_6",
+      "question": "Why are Youth Exchanges considered a \u201cwonderful intercultural experience\u201d?",
+      "correct_answer": "C",
+      "selected_answer": "B",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "A1_7",
+      "question": "Why did Mo Yan win the Nobel Literature Prize?",
+      "correct_answer": "C",
+      "selected_answer": "A",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "A1_8",
+      "question": "Why did mountain residents have lower heart disease death rates?",
+      "correct_answer": "A",
+      "selected_answer": "A",
+      "is_correct": true,
+      "score": 1
+    },
+    {
+      "id": "A1_9",
+      "question": "Why do the British drink strong black tea from India?",
+      "correct_answer": "B",
+      "selected_answer": "D",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "A1_10",
+      "question": "Why are large parties seated first on the cruise?",
+      "correct_answer": "A",
+      "selected_answer": "A",
+      "is_correct": true,
+      "score": 1
+    },
+    {
+      "id": "A1_11",
+      "question": "Why did Lucy and her mother go shopping on Sunday?",
+      "correct_answer": "A",
+      "selected_answer": "A",
+      "is_correct": true,
+      "score": 1
+    },
+    {
+      "id": "A1_12",
+      "question": "Why did the medical school doctors dislike Adams?",
+      "correct_answer": "C",
+      "selected_answer": "A",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "A1_13",
+      "question": "Why did Victory give the $612 away?",
+      "correct_answer": "C",
+      "selected_answer": "B",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "A1_14",
+      "question": "Why is London considered a major global city?",
+      "correct_answer": "D",
+      "selected_answer": "B",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "A1_15",
+      "question": "According to the passage, why do successful people \u201clive life on purpose\u201d?",
+      "correct_answer": "B",
+      "selected_answer": "A",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "A1_16",
+      "question": "Why did Joe go to the office in town?",
+      "correct_answer": "A",
+      "selected_answer": "B",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "A1_17",
+      "question": "Why does Dr. Gullotta urge regular check-ups for men?",
+      "correct_answer": "B",
+      "selected_answer": "D",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "A1_18",
+      "question": "Why are artists invited to the Ice Hotel each year?",
+      "correct_answer": "D",
+      "selected_answer": "B",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "A1_19",
+      "question": "Why did \"my way or the highway\" parenting lead to more violence?",
+      "correct_answer": "C",
+      "selected_answer": "D",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "A1_20",
+      "question": "Why did Hu Jintao reassure Bill Gates during the visit?",
+      "correct_answer": "C",
+      "selected_answer": "C",
+      "is_correct": true,
+      "score": 1
+    },
+    {
+      "id": "A1_21",
+      "question": "Why does the passage recommend visiting Iceland in winter?",
+      "correct_answer": "D",
+      "selected_answer": "A",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "A1_22",
+      "question": "Why did York start pretending to be a doctor?",
+      "correct_answer": "B",
+      "selected_answer": "B",
+      "is_correct": true,
+      "score": 1
+    },
+    {
+      "id": "A1_23",
+      "question": "Why will retailers focus on downsizing, according to the report?",
+      "correct_answer": "B",
+      "selected_answer": "D",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "A1_24",
+      "question": "Why does Jack want to join the music club?",
+      "correct_answer": "B",
+      "selected_answer": "C",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "A1_25",
+      "question": "Why does the first letter request no legal action?",
+      "correct_answer": "D",
+      "selected_answer": "C",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "A1_26",
+      "question": "According to the passage, why are parents blamed?",
+      "correct_answer": "C",
+      "selected_answer": "B",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "A1_27",
+      "question": "Why did Lang Lang\u2019s father quit his job?",
+      "correct_answer": "B",
+      "selected_answer": "B",
+      "is_correct": true,
+      "score": 1
+    },
+    {
+      "id": "A1_28",
+      "question": "Why did the traveler choose the third taxi?",
+      "correct_answer": "D",
+      "selected_answer": "C",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "A1_29",
+      "question": "What are people called who eat only food from plants?",
+      "correct_answer": "D",
+      "selected_answer": "A",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "A1_30",
+      "question": "Why could Kevin help Penny in the restaurant?",
+      "correct_answer": "D",
+      "selected_answer": "A",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "A1_31",
+      "question": "Why do people say \"once in a blue moon\"?",
+      "correct_answer": "A",
+      "selected_answer": "D",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "A1_32",
+      "question": "Why did the writer give up acting in Los Angeles?",
+      "correct_answer": "A",
+      "selected_answer": "A",
+      "is_correct": true,
+      "score": 1
+    },
+    {
+      "id": "A1_33",
+      "question": "Why does the passage recommend visiting Iceland in winter?",
+      "correct_answer": "B",
+      "selected_answer": "C",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "A1_34",
+      "question": "Why should students keep a record of language learning?",
+      "correct_answer": "A",
+      "selected_answer": "C",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "A1_35",
+      "question": "Why did Joe go to the office in town?",
+      "correct_answer": "A",
+      "selected_answer": "C",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "A1_36",
+      "question": "Why might riders \"black out\" on some roller coasters?",
+      "correct_answer": "D",
+      "selected_answer": "A",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "A1_37",
+      "question": "Why did Li Ruyan decide not to jaywalk anymore?",
+      "correct_answer": "D",
+      "selected_answer": "D",
+      "is_correct": true,
+      "score": 1
+    },
+    {
+      "id": "A1_38",
+      "question": "Why should you bring your own cup to Starbucks?",
+      "correct_answer": "B",
+      "selected_answer": "A",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "A1_39",
+      "question": "Why was Mandela given the name \u201cNelson\u201d at school?",
+      "correct_answer": "D",
+      "selected_answer": "D",
+      "is_correct": true,
+      "score": 1
+    },
+    {
+      "id": "A1_40",
+      "question": "Why do many people have a quick lunch?",
+      "correct_answer": "C",
+      "selected_answer": "A",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "A1_41",
+      "question": "Why is Canal Street famous in Chinatown?",
+      "correct_answer": "C",
+      "selected_answer": "C",
+      "is_correct": true,
+      "score": 1
+    },
+    {
+      "id": "A1_42",
+      "question": "Why might a beginner choose the Taichi class?",
+      "correct_answer": "A",
+      "selected_answer": "C",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "A1_43",
+      "question": "Why did the rich man bring a gold cup to the king?",
+      "correct_answer": "B",
+      "selected_answer": "B",
+      "is_correct": true,
+      "score": 1
+    },
+    {
+      "id": "A1_44",
+      "question": "What caused Jim to start a new life?",
+      "correct_answer": "C",
+      "selected_answer": "A",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "A1_45",
+      "question": "Why did Nigel befriend Alicia before the competition?",
+      "correct_answer": "C",
+      "selected_answer": "A",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "A1_46",
+      "question": "Why did the group decide to build a new house?",
+      "correct_answer": "D",
+      "selected_answer": "B",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "A1_47",
+      "question": "Why won\u2019t the F.D.A. require \u201cclone-free\u201d labels?",
+      "correct_answer": "A",
+      "selected_answer": "C",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "A1_48",
+      "question": "Why did Brittany take off her prostheses sometimes?",
+      "correct_answer": "B",
+      "selected_answer": "A",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "A1_49",
+      "question": "Why does Tom visit the old people's home on weekends?",
+      "correct_answer": "D",
+      "selected_answer": "B",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "A1_50",
+      "question": "Why did Rob wrap a bandage above the bite?",
+      "correct_answer": "C",
+      "selected_answer": "A",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "A1_51",
+      "question": "Why did Dan put a big clock on the wall?",
+      "correct_answer": "C",
+      "selected_answer": "D",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "A1_52",
+      "question": "Why did Hu reassure Bill Gates about intellectual property rights?",
+      "correct_answer": "B",
+      "selected_answer": "C",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "A1_53",
+      "question": "Why does Peffers say choosing bottled water for health is misguided?",
+      "correct_answer": "B",
+      "selected_answer": "D",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "A1_54",
+      "question": "Why did more students drink \u201cto get drunk\u201d in 1997?",
+      "correct_answer": "D",
+      "selected_answer": "C",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "A1_55",
+      "question": "Why did the surfers leave Japan after the incident?",
+      "correct_answer": "D",
+      "selected_answer": "B",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "A1_56",
+      "question": "Why did Mo feel upset after the prize announcement?",
+      "correct_answer": "D",
+      "selected_answer": "C",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "A1_57",
+      "question": "Why did Jack hear screaming in the park?",
+      "correct_answer": "A",
+      "selected_answer": "C",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "A1_58",
+      "question": "Why do students raise money for the prom?",
+      "correct_answer": "B",
+      "selected_answer": "B",
+      "is_correct": true,
+      "score": 1
+    },
+    {
+      "id": "A1_59",
+      "question": "Which magazine is devoted to women\u2019s overall physical and mental health?",
+      "correct_answer": "B",
+      "selected_answer": "C",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "A1_60",
+      "question": "According to the passage, why is the Japanese school gate closed?",
+      "correct_answer": "A",
+      "selected_answer": "A",
+      "is_correct": true,
+      "score": 1
+    },
+    {
+      "id": "A1_61",
+      "question": "Why was Edell offered a job as a TV hostess?",
+      "correct_answer": "A",
+      "selected_answer": "B",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "A1_62",
+      "question": "Why was the donor\u2019s identity kept a secret?",
+      "correct_answer": "C",
+      "selected_answer": "B",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "A1_63",
+      "question": "Why do many people enjoy chatting with Xiaoice?",
+      "correct_answer": "C",
+      "selected_answer": "B",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "A1_64",
+      "question": "Why did blind participants perform better at side and back sounds?",
+      "correct_answer": "C",
+      "selected_answer": "D",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "A1_65",
+      "question": "Why did the man run after the narrator?",
+      "correct_answer": "B",
+      "selected_answer": "D",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "A1_66",
+      "question": "Why should you keep a positive attitude?",
+      "correct_answer": "D",
+      "selected_answer": "C",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "A1_67",
+      "question": "Why did Everett propose a skateboard park there?",
+      "correct_answer": "C",
+      "selected_answer": "B",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "A1_68",
+      "question": "Why should cyclists push with the ball of the foot?",
+      "correct_answer": "B",
+      "selected_answer": "C",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "A1_69",
+      "question": "Why are food scraps being added to the digester eggs?",
+      "correct_answer": "B",
+      "selected_answer": "A",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "A1_70",
+      "question": "Why was finding a hotel in Paris difficult?",
+      "correct_answer": "D",
+      "selected_answer": "B",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "A1_71",
+      "question": "Why are they eating mooncakes in the last picture?",
+      "correct_answer": "C",
+      "selected_answer": "A",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "A1_72",
+      "question": "Why did the woman follow Ken on a motorcycle?",
+      "correct_answer": "A",
+      "selected_answer": "C",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "A1_73",
+      "question": "Why didn\u2019t the man get the Microsoft job?",
+      "correct_answer": "A",
+      "selected_answer": "D",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "A1_74",
+      "question": "Why do students sell used exercise books to a paper-factory?",
+      "correct_answer": "B",
+      "selected_answer": "C",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "A1_75",
+      "question": "Why did Juac get the chance to teach chess?",
+      "correct_answer": "D",
+      "selected_answer": "A",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "A1_76",
+      "question": "Why did APOPO choose African rats to find mines?",
+      "correct_answer": "D",
+      "selected_answer": "B",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "A1_77",
+      "question": "Why are proceeds from the bake sale being collected?",
+      "correct_answer": "C",
+      "selected_answer": "C",
+      "is_correct": true,
+      "score": 1
+    },
+    {
+      "id": "A1_78",
+      "question": "Why might an unpaid position be advertised?",
+      "correct_answer": "D",
+      "selected_answer": "B",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "A1_79",
+      "question": "Why did Dollar first meet lemurs at Duke?",
+      "correct_answer": "C",
+      "selected_answer": "D",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "A1_80",
+      "question": "Why does Yang like chatting on QQ?",
+      "correct_answer": "B",
+      "selected_answer": "D",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "A1_81",
+      "question": "Why did the boy need to buy the doll himself?",
+      "correct_answer": "B",
+      "selected_answer": "D",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "A1_82",
+      "question": "Why did Kenneth die the morning after Helen?",
+      "correct_answer": "B",
+      "selected_answer": "B",
+      "is_correct": true,
+      "score": 1
+    },
+    {
+      "id": "A1_83",
+      "question": "Why did Everett propose a skateboard park here?",
+      "correct_answer": "D",
+      "selected_answer": "C",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "A1_84",
+      "question": "Why does the family need an English tutor?",
+      "correct_answer": "B",
+      "selected_answer": "B",
+      "is_correct": true,
+      "score": 1
+    },
+    {
+      "id": "A1_85",
+      "question": "Why are large parties seated first on the cruise?",
+      "correct_answer": "C",
+      "selected_answer": "B",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "A1_86",
+      "question": "According to the passage, why should children eat more vegetables and fruit?",
+      "correct_answer": "B",
+      "selected_answer": "C",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "A1_87",
+      "question": "Why did Fort McMurray residents leave their homes?",
+      "correct_answer": "D",
+      "selected_answer": "D",
+      "is_correct": true,
+      "score": 1
+    },
+    {
+      "id": "A1_88",
+      "question": "Why did smoked filters reduce harmful insects in bird nests?",
+      "correct_answer": "C",
+      "selected_answer": "D",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "A1_89",
+      "question": "Why did many young adults buy Secret Garden?",
+      "correct_answer": "C",
+      "selected_answer": "C",
+      "is_correct": true,
+      "score": 1
+    },
+    {
+      "id": "A1_90",
+      "question": "Why do some young people enjoy the Farm game?",
+      "correct_answer": "A",
+      "selected_answer": "B",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "A1_91",
+      "question": "Why did Truman decide to use the atomic bomb on Japan?",
+      "correct_answer": "B",
+      "selected_answer": "B",
+      "is_correct": true,
+      "score": 1
+    },
+    {
+      "id": "A1_92",
+      "question": "Why does educating girls reduce infant and maternal death rates?",
+      "correct_answer": "D",
+      "selected_answer": "D",
+      "is_correct": true,
+      "score": 1
+    },
+    {
+      "id": "A1_93",
+      "question": "Why did Mira turn off the bright porch lights?",
+      "correct_answer": "D",
+      "selected_answer": "A",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "A1_94",
+      "question": "Why did the bus become a happy place?",
+      "correct_answer": "C",
+      "selected_answer": "A",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "A1_95",
+      "question": "According to the passage, why might teens read less?",
+      "correct_answer": "B",
+      "selected_answer": "A",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "A1_96",
+      "question": "Why did the son hang up the phone?",
+      "correct_answer": "C",
+      "selected_answer": "B",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "A1_97",
+      "question": "Why will electric bike production grow quickly in China?",
+      "correct_answer": "D",
+      "selected_answer": "B",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "A1_98",
+      "question": "Why does Amy live in Nanjing now?",
+      "correct_answer": "C",
+      "selected_answer": "D",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "A1_99",
+      "question": "Why did nineteen men hold the dolphin?",
+      "correct_answer": "B",
+      "selected_answer": "A",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "A1_100",
+      "question": "Why do shopping malls provide parking for cars?",
+      "correct_answer": "A",
+      "selected_answer": "D",
+      "is_correct": false,
+      "score": 0
+    }
+  ]
+}

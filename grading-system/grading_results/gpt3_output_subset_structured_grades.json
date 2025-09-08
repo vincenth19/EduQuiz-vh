@@ -1,0 +1,812 @@
+{
+  "statistics": {
+    "total_questions": 100,
+    "correct_answers": 20,
+    "wrong_answers": 80,
+    "accuracy_percentage": 20.0,
+    "grading_time_seconds": 0.0003,
+    "questions_per_second": 360955.59
+  },
+  "detailed_results": [
+    {
+      "id": "1",
+      "question": "Why did Mr. Mandela set up his own law firm?",
+      "correct_answer": "D",
+      "selected_answer": "A",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "2",
+      "question": "How much will a couple with one child pay for the tickets?",
+      "correct_answer": "C",
+      "selected_answer": "A",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "3",
+      "question": "What is the relationship between Nate Borges and David Johns?",
+      "correct_answer": "B",
+      "selected_answer": "C",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "4",
+      "question": "According to the study, which parenting style is likely to cause more violent behaviors?",
+      "correct_answer": "C",
+      "selected_answer": "B",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "5",
+      "question": "Which hotel would invite artists to come to work every year?",
+      "correct_answer": "D",
+      "selected_answer": "B",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "6",
+      "question": "What advice does Edell give to young people?",
+      "correct_answer": "C",
+      "selected_answer": "B",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "7",
+      "question": "What is the maximum time your advertisement can be displayed on the website?",
+      "correct_answer": "C",
+      "selected_answer": "A",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "8",
+      "question": "How much should you pay for a parcel if it is sent to Adelphia School, New York, on Monday?",
+      "correct_answer": "A",
+      "selected_answer": "A",
+      "is_correct": true,
+      "score": 1
+    },
+    {
+      "id": "9",
+      "question": "Why did Everett feel optimistic?",
+      "correct_answer": "B",
+      "selected_answer": "D",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "10",
+      "question": "Why did Everett feel optimistic?",
+      "correct_answer": "A",
+      "selected_answer": "A",
+      "is_correct": true,
+      "score": 1
+    },
+    {
+      "id": "11",
+      "question": "What most separates successful people from others?",
+      "correct_answer": "A",
+      "selected_answer": "A",
+      "is_correct": true,
+      "score": 1
+    },
+    {
+      "id": "12",
+      "question": "What did Bill Gates do after the meeting with Hu?",
+      "correct_answer": "C",
+      "selected_answer": "A",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "13",
+      "question": "What did Bill Gates do after the meeting with Hu?",
+      "correct_answer": "C",
+      "selected_answer": "B",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "14",
+      "question": "In what way has the drinking culture changed among college students?",
+      "correct_answer": "D",
+      "selected_answer": "B",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "15",
+      "question": "What time does the Sunset Pasta Cruise to Emerald Bay start?",
+      "correct_answer": "B",
+      "selected_answer": "A",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "16",
+      "question": "What time does the Sunset Pasta Cruise to Emerald Bay start?",
+      "correct_answer": "A",
+      "selected_answer": "B",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "17",
+      "question": "What was the writer's father?",
+      "correct_answer": "B",
+      "selected_answer": "D",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "18",
+      "question": "How did the girl get home from work?",
+      "correct_answer": "D",
+      "selected_answer": "B",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "19",
+      "question": "What is the research by scientists in Greece aimed at?",
+      "correct_answer": "C",
+      "selected_answer": "D",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "20",
+      "question": "Why aren't cloned food widely used?",
+      "correct_answer": "C",
+      "selected_answer": "C",
+      "is_correct": true,
+      "score": 1
+    },
+    {
+      "id": "21",
+      "question": "Where is the text most probably taken from?",
+      "correct_answer": "D",
+      "selected_answer": "A",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "22",
+      "question": "What is the best way to reduce poverty?",
+      "correct_answer": "B",
+      "selected_answer": "B",
+      "is_correct": true,
+      "score": 1
+    },
+    {
+      "id": "23",
+      "question": "Why does Juac think chess can help students with their math skills?",
+      "correct_answer": "B",
+      "selected_answer": "D",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "24",
+      "question": "Why did Lang Lang's father bring him to Beijing?",
+      "correct_answer": "B",
+      "selected_answer": "C",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "25",
+      "question": "What does Jim Steyer mean by saying \"kids with parents who read, who buy or take books out of the library for their kids, and who then set time aside in their kids' daily schedule for reading, tend to read the most\"?",
+      "correct_answer": "D",
+      "selected_answer": "C",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "26",
+      "question": "What did Brittany do to keep up with her friends?",
+      "correct_answer": "C",
+      "selected_answer": "B",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "27",
+      "question": "What effect did the eruption of Eyjaallajokull have?",
+      "correct_answer": "B",
+      "selected_answer": "B",
+      "is_correct": true,
+      "score": 1
+    },
+    {
+      "id": "28",
+      "question": "What effect did the eruption of Eyjaallajokull have?",
+      "correct_answer": "D",
+      "selected_answer": "C",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "29",
+      "question": "Which of Mo Yan's works was the basis for the film directed by Zhang Yimou?",
+      "correct_answer": "D",
+      "selected_answer": "A",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "30",
+      "question": "How many kids are interviewed about QQ?",
+      "correct_answer": "D",
+      "selected_answer": "A",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "31",
+      "question": "Why did York pretend to be a doctor?",
+      "correct_answer": "A",
+      "selected_answer": "D",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "32",
+      "question": "In which country may the participants spend the longest time?",
+      "correct_answer": "A",
+      "selected_answer": "A",
+      "is_correct": true,
+      "score": 1
+    },
+    {
+      "id": "33",
+      "question": "Which two magazines are published by the same publisher?",
+      "correct_answer": "B",
+      "selected_answer": "C",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "34",
+      "question": "What is the biggest advantage of electric bikes?",
+      "correct_answer": "A",
+      "selected_answer": "C",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "35",
+      "question": "What is the primary cause for the loss of reading comprehension?",
+      "correct_answer": "A",
+      "selected_answer": "C",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "36",
+      "question": "What is the writer's attitude to the new roller coasters?",
+      "correct_answer": "D",
+      "selected_answer": "A",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "37",
+      "question": "How many children are there in the Felumlee family?",
+      "correct_answer": "D",
+      "selected_answer": "D",
+      "is_correct": true,
+      "score": 1
+    },
+    {
+      "id": "38",
+      "question": "What is the function of the digester eggs?",
+      "correct_answer": "B",
+      "selected_answer": "A",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "39",
+      "question": "What was the most important thing that Rob did to save his life?",
+      "correct_answer": "D",
+      "selected_answer": "D",
+      "is_correct": true,
+      "score": 1
+    },
+    {
+      "id": "40",
+      "question": "What reward did Nigel receive for his excellence in study?",
+      "correct_answer": "C",
+      "selected_answer": "A",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "41",
+      "question": "Why did Jack run home immediately after school?",
+      "correct_answer": "C",
+      "selected_answer": "C",
+      "is_correct": true,
+      "score": 1
+    },
+    {
+      "id": "42",
+      "question": "Why did the passengers feel that way when they thought about Charlie?",
+      "correct_answer": "A",
+      "selected_answer": "C",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "43",
+      "question": "What did Hayden Panettiere do to save the dolphins?",
+      "correct_answer": "B",
+      "selected_answer": "B",
+      "is_correct": true,
+      "score": 1
+    },
+    {
+      "id": "44",
+      "question": "Why could the man become one of the biggest food retailers in the US?",
+      "correct_answer": "C",
+      "selected_answer": "A",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "45",
+      "question": "Why did the Americans decide to use the atomic bomb against Japan?",
+      "correct_answer": "C",
+      "selected_answer": "A",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "46",
+      "question": "Why did Mira run into the house when she saw the turtles?",
+      "correct_answer": "D",
+      "selected_answer": "B",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "47",
+      "question": "Which is NOT mentioned in the text?",
+      "correct_answer": "A",
+      "selected_answer": "C",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "48",
+      "question": "What is Melissa Peffers' attitude toward bottled water?",
+      "correct_answer": "B",
+      "selected_answer": "A",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "49",
+      "question": "Why did the writer give up his dream of being an actor?",
+      "correct_answer": "D",
+      "selected_answer": "B",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "50",
+      "question": "What does Cartmill say about regular check-ups for men?",
+      "correct_answer": "C",
+      "selected_answer": "A",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "51",
+      "question": "Which is NOT helpful for you to enjoy learning English?",
+      "correct_answer": "C",
+      "selected_answer": "D",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "52",
+      "question": "What did the researchers do in the second experiment?",
+      "correct_answer": "B",
+      "selected_answer": "C",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "53",
+      "question": "What is Xiaoice?",
+      "correct_answer": "B",
+      "selected_answer": "D",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "54",
+      "question": "Why have shoppers who have cut back on purchases continued to do so?",
+      "correct_answer": "D",
+      "selected_answer": "C",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "55",
+      "question": "Why do the researchers want to learn more about the working of brains of \"late-onset\" blind people?",
+      "correct_answer": "D",
+      "selected_answer": "B",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "56",
+      "question": "Which is the busiest airport in the world by international passenger traffic?",
+      "correct_answer": "D",
+      "selected_answer": "C",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "57",
+      "question": "What's the most important when you are cycling?",
+      "correct_answer": "A",
+      "selected_answer": "C",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "58",
+      "question": "What is the writer's opinion on the third reason for children becoming overweight?",
+      "correct_answer": "B",
+      "selected_answer": "B",
+      "is_correct": true,
+      "score": 1
+    },
+    {
+      "id": "59",
+      "question": "Why do the students put the waste paper in the big box?",
+      "correct_answer": "B",
+      "selected_answer": "C",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "60",
+      "question": "How old was Joe Read when he finished school?",
+      "correct_answer": "A",
+      "selected_answer": "A",
+      "is_correct": true,
+      "score": 1
+    },
+    {
+      "id": "61",
+      "question": "How old was Joe Read when he finished school?",
+      "correct_answer": "A",
+      "selected_answer": "B",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "62",
+      "question": "What can't Jack do?",
+      "correct_answer": "C",
+      "selected_answer": "B",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "63",
+      "question": "Why do most people think the prom comes from America?",
+      "correct_answer": "C",
+      "selected_answer": "B",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "64",
+      "question": "What did the woman in the white dress want to do ?",
+      "correct_answer": "C",
+      "selected_answer": "D",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "65",
+      "question": "What's the name of the river?",
+      "correct_answer": "B",
+      "selected_answer": "D",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "66",
+      "question": "Why do many young people like to colour the book?",
+      "correct_answer": "D",
+      "selected_answer": "C",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "67",
+      "question": "How many classes does Wang Gang have every weekday?",
+      "correct_answer": "C",
+      "selected_answer": "B",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "68",
+      "question": "Why do the young enjoy shopping with friends?",
+      "correct_answer": "B",
+      "selected_answer": "C",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "69",
+      "question": "Why do the Japanese eat lots of fish?",
+      "correct_answer": "B",
+      "selected_answer": "A",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "70",
+      "question": "What did Dollar do as a kid?",
+      "correct_answer": "D",
+      "selected_answer": "B",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "71",
+      "question": "Why did the soldier want his friend to live with them?",
+      "correct_answer": "C",
+      "selected_answer": "A",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "72",
+      "question": "What color is Lucy's favorite ?",
+      "correct_answer": "A",
+      "selected_answer": "C",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "73",
+      "question": "What did the dog do when Mr. Smith was pressing hard on its neck?",
+      "correct_answer": "A",
+      "selected_answer": "D",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "74",
+      "question": "What did the old man find one day?",
+      "correct_answer": "B",
+      "selected_answer": "C",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "75",
+      "question": "How was Kevin when he was saved?",
+      "correct_answer": "D",
+      "selected_answer": "A",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "76",
+      "question": "How did the rats tell the difference between the smell of mines and other smells?",
+      "correct_answer": "D",
+      "selected_answer": "B",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "77",
+      "question": "How much did the taxi driver get in total ?",
+      "correct_answer": "C",
+      "selected_answer": "C",
+      "is_correct": true,
+      "score": 1
+    },
+    {
+      "id": "78",
+      "question": "Why did the boy have tears in his eyes?",
+      "correct_answer": "D",
+      "selected_answer": "B",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "79",
+      "question": "What do they drink for dinner?",
+      "correct_answer": "C",
+      "selected_answer": "D",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "80",
+      "question": "What did Hunter Adam do when he was a teenager?",
+      "correct_answer": "B",
+      "selected_answer": "D",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "81",
+      "question": "What did Hunter Adam do when he was a teenager?",
+      "correct_answer": "B",
+      "selected_answer": "D",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "82",
+      "question": "What does \"tea\" mean?",
+      "correct_answer": "B",
+      "selected_answer": "B",
+      "is_correct": true,
+      "score": 1
+    },
+    {
+      "id": "83",
+      "question": "When is Tom's birthday?",
+      "correct_answer": "D",
+      "selected_answer": "C",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "84",
+      "question": "Why did the boy want to buy the doll?",
+      "correct_answer": "B",
+      "selected_answer": "B",
+      "is_correct": true,
+      "score": 1
+    },
+    {
+      "id": "85",
+      "question": "What can you find in Canal Street?",
+      "correct_answer": "C",
+      "selected_answer": "B",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "86",
+      "question": "What are the students not allowed to do in American schools?",
+      "correct_answer": "B",
+      "selected_answer": "C",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "87",
+      "question": "What did Li Ruyan do in the summer?",
+      "correct_answer": "D",
+      "selected_answer": "D",
+      "is_correct": true,
+      "score": 1
+    },
+    {
+      "id": "88",
+      "question": "How do they go out for a walk?",
+      "correct_answer": "C",
+      "selected_answer": "D",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "89",
+      "question": "Why do so many young people enjoy the kind of Farm game?",
+      "correct_answer": "C",
+      "selected_answer": "C",
+      "is_correct": true,
+      "score": 1
+    },
+    {
+      "id": "90",
+      "question": "What made Mo win the Nobel Prize for literature?",
+      "correct_answer": "A",
+      "selected_answer": "B",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "91",
+      "question": "How many ways are mentioned to help reduce CO\n2?",
+      "correct_answer": "B",
+      "selected_answer": "B",
+      "is_correct": true,
+      "score": 1
+    },
+    {
+      "id": "92",
+      "question": "What do the children do on Saturday and Sunday?",
+      "correct_answer": "D",
+      "selected_answer": "D",
+      "is_correct": true,
+      "score": 1
+    },
+    {
+      "id": "93",
+      "question": "What is the attitude of the writer?",
+      "correct_answer": "D",
+      "selected_answer": "A",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "94",
+      "question": "What did Victory do with the money found?",
+      "correct_answer": "C",
+      "selected_answer": "A",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "95",
+      "question": "What did the writer do at the age of sixteen?",
+      "correct_answer": "B",
+      "selected_answer": "A",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "96",
+      "question": "Where does Peter live now?",
+      "correct_answer": "C",
+      "selected_answer": "B",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "97",
+      "question": "What is not a part of the job?",
+      "correct_answer": "D",
+      "selected_answer": "B",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "98",
+      "question": "Who was Jim's only friend?",
+      "correct_answer": "C",
+      "selected_answer": "D",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "99",
+      "question": "When there are two full moons in one month, what is the name of the second full moon?",
+      "correct_answer": "B",
+      "selected_answer": "A",
+      "is_correct": false,
+      "score": 0
+    },
+    {
+      "id": "100",
+      "question": "What did Dan do?",
+      "correct_answer": "A",
+      "selected_answer": "D",
+      "is_correct": false,
+      "score": 0
+    }
+  ]
+}
