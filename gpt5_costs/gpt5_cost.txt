@@ -1,5 +1,7 @@
-# COSTS per scenario (in USD)
-
-a1: $0.94
-a2: $20.41
-a3: $2.36
+# Estimated cost per scenario, 100 rows (in USD)
+    
+    100 rows -> 950 rows estimation
+a1: $0.94    -> $8.93
+a2: $2.72    -> $25.84
+a3: $2.36    -> $22.42
+a4: $5.50    -> $52.25
